@@ -73,4 +73,4 @@ We encourage contributions to the Onboard Server! Whether it's improving scrapin
 
 ## 📄 License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [GNU GPL v3.0 License](LICENSE.md).

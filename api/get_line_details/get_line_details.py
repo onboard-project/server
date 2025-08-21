@@ -5,7 +5,7 @@
 
 
 from api.parsing.lines.parse_line import parse_line
-from api.constants import make_request, ATM_HEADERS
+from api.constants import make_request, GIROMILANO_HEADERS
 
 
 def get_line_details(line_id, params=None):
@@ -14,7 +14,7 @@ def get_line_details(line_id, params=None):
 
     url = f"https://giromilano.atm.it/proxy.tpportal/api/tpportal/tpl/journeyPatterns/{line_id}"
 
-    data, content_type, status_code = make_request(url, headers=ATM_HEADERS, params=params)
+    data, content_type, status_code = make_request(url, headers=GIROMILANO_HEADERS, params=params)
 
     if status_code == 200:
         transformed_data = parse_line(data)

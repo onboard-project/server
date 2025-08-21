@@ -5,7 +5,7 @@
 
 
 from api.parsing.stops.parse_stop import parse_stop
-from api.constants import make_request, ATM_HEADERS
+from api.constants import make_request, GIROMILANO_HEADERS
 
 
 def get_stop_details(stop_id, params=None):
@@ -14,7 +14,7 @@ def get_stop_details(stop_id, params=None):
 
     url = f"https://giromilano.atm.it/proxy.tpportal/api/tpPortal/tpl/stops/{stop_id}/linesummary"
 
-    data, content_type, status_code = make_request(url, headers=ATM_HEADERS, params=params)
+    data, content_type, status_code = make_request(url, headers=GIROMILANO_HEADERS, params=params)
 
     if status_code == 200:
         transformed_data = parse_stop(data)

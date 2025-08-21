@@ -1,5 +1,3 @@
-import json
-
 import requests
 
 
@@ -36,7 +34,7 @@ def make_request(url, headers=None, params=None, timeout=15):
         try:
             data = response.json()
             content_type = 'application/json'
-        except json.JSONDecodeError:
+        except requests.exceptions.JSONDecodeError:
             # If JSON parsing fails, return the raw text content
             data = response.text
             content_type = response.headers.get('Content-Type', 'text/plain')  # Get original content type or default
@@ -74,7 +72,7 @@ def make_request(url, headers=None, params=None, timeout=15):
         return error_msg, "application/json", 502  # Bad Gateway
 
 
-ATM_HEADERS = {
+GIROMILANO_HEADERS = {
     "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
     "accept-encoding": "gzip, deflate, br, zstd",
     "accept-language": "it-IT,it;q=0.9,en-US;q=0.8,en;q=0.7",

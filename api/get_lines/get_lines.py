@@ -1,9 +1,9 @@
 from api.parsing.lines.parse_line import parse_line
 
-# Si presume che api.constants fornisca make_request e ATM_HEADERS.
+# Si presume che api.constants fornisca make_request e GIROMILANO_HEADERS.
 # Se api.constants non esiste o non fornisce questi elementi, questo import
 # dovrà essere modificato o tali costanti dovranno essere definite/mantenute localmente.
-from api.constants import make_request, ATM_HEADERS, create_error_json
+from api.constants import make_request, GIROMILANO_HEADERS, create_error_json
 
 # API_URL è specifico per il recupero di tutti i percorsi di linea (journey patterns)
 API_URL = "https://giromilano.atm.it/proxy.tpportal/api/tpportal/tpl/journeyPatterns/"
@@ -21,9 +21,9 @@ def get_lines(): # Rinominato per coerenza con l'uso in api/index.py
             - status_code (int): Il codice di stato HTTP.
     """
     # Chiama la funzione condivisa make_request
-    # ATM_HEADERS è importato da api.constants
+    # GIROMILANO_HEADERS è importato da api.constants
     # Il timeout è gestito dal valore predefinito di make_request o può essere passato se necessario
-    data, content_type, status_code = make_request(API_URL, headers=ATM_HEADERS)
+    data, content_type, status_code = make_request(API_URL, headers=GIROMILANO_HEADERS)
 
     if status_code == 200:
         # A questo punto, data dovrebbe essere il JSON analizzato dall'API upstream

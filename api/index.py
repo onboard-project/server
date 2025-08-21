@@ -6,9 +6,8 @@ from api.get_line_details.get_line_details import get_line_details
 from api.get_lines.get_lines import get_lines
 from api.get_stop_details.get_stop_details import get_stop_details
 from api.get_stops.get_stops import get_stops
+from api.get_metro_status.get_metro_status import get_metro_status
 from api.constants import create_error_json
-
-
 
 
 async def app(scope, receive, send):
@@ -40,6 +39,10 @@ async def app(scope, receive, send):
                 "titolo": "API Trasporto Pubblico",
                 "descrizione_generale": "Benvenuto nelle API per le informazioni sul trasporto pubblico.",
                 "endpoints": {
+                    "StatoMetro": {
+                        "Path": "/status/metro",
+                        "Descrizione": "Restituisce lo stato attuale delle linee metropolitane."
+                    },
                     "ElencoLinee": {
                         "Path": "/lines",
                         "Descrizione": "Restituisce un elenco di tutte le linee di trasporto disponibili."
@@ -89,6 +92,10 @@ async def app(scope, receive, send):
             # Passa i query_params direttamente. get_stop_details gestirà i parametri che conosce.
             # Il parametro 'short' non è più documentato/supportato attivamente a questo livello.
             data, content_type, status_code = get_stop_details(stop_id)
+        
+        elif path == '/status/metro':
+            print(f"Routing per /status/metro")
+            data, content_type, status_code = get_metro_status()
         # Se nessun percorso GET specifico viene trovato, la risposta 404 predefinita rimane.
 
     else:  # Gestisce metodi HTTP non GET
@@ -163,6 +170,7 @@ if __name__ == "__main__":
     print("---------------------------------")
     print("\nEsempi di endpoint da testare nel browser o con curl:")
     print(f"  Informazioni API (Root): http://localhost:8000/")
+    print(f"  Stato Metro:             http://localhost:8000/status/metro")
     print(f"  Lista Linee:             http://localhost:8000/lines")
     print(f"  Dettagli Linea (base):   http://localhost:8000/lines/19|0")  # ID Linea d'esempio
     print(f"  Dettagli Linea (param):  http://localhost:8000/lines/19|0?all=true")

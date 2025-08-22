@@ -22,7 +22,7 @@ def parse_metro_status(html_content):
         if line != 'N/A':
             status_list.append({
                 "line": line,
-                "status": re.sub(r'\\u([0-9a-fA-F]{4})', lambda m: chr(int(m.group(1), 16)), status_text),
+                "status": status_text
             })
 
     message_element = soup.select_one('.StatusLinee_Mex_Testo')

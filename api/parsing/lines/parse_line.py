@@ -261,7 +261,7 @@ def parse_line(line_data_item):
 
         )
 
-        if line_data_item.get("JourneyPatternId") and not str(details_desc).startswith("N"):
+        if line_data_item.get("JourneyPatternId"):
             extracted_code_from_desc = line_data_item.get("BookletUrl2")
 
         details_headcode = extracted_code_from_desc

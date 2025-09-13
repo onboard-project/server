@@ -1,119 +1,106 @@
 [
   {
     "info": {
-      "id": "10842"
+      "id": "11142"
     },
     "details": {
-      "name": "Foppa",
+      "name": "Via Russoli, 15/5",
       "type": "surface"
     },
     "location": {
-      "X": "9.157910376240494",
-      "Y": "45.4567926167489"
+      "X": "9.165706827315425",
+      "Y": "45.44036868082659"
     }
   },
   {
     "info": {
-      "id": "12144"
+      "id": "11361"
     },
     "details": {
-      "name": "Via C. Morrone Via Modena",
+      "name": "P.Le Nigra",
       "type": "surface"
     },
     "location": {
-      "X": "9.214646505341435",
-      "Y": "45.47111589346108"
+      "X": "9.171938721764116",
+      "Y": "45.49582292414841"
     }
   },
   {
     "info": {
-      "id": "12758"
+      "id": "12363"
     },
     "details": {
-      "name": "Via Palmanova Via Cesana",
+      "name": "P.Za Salgari",
       "type": "surface"
     },
     "location": {
-      "X": "9.236233629975256",
-      "Y": "45.49656866274228"
+      "X": "9.221371225391898",
+      "Y": "45.450360208580946"
     }
   },
   {
     "info": {
-      "id": "13165"
+      "id": "12558"
     },
     "details": {
-      "name": "P.Le Lodi V.Le Umbria M3",
+      "name": "Gorla M1",
       "type": "surface"
     },
     "location": {
-      "X": "9.210812806093806",
-      "Y": "45.44817489549952"
+      "X": "9.223106369081334",
+      "Y": "45.50690447866932"
     }
   },
   {
     "info": {
-      "id": "13647"
+      "id": "15004"
     },
     "details": {
-      "name": "Cinisello (S.Eusebio)",
+      "name": "Cairoli M1",
       "type": "surface"
     },
     "location": {
-      "X": "9.212471947548162",
-      "Y": "45.570413751351225"
+      "X": "9.18089081653479",
+      "Y": "45.46762333712236"
     }
   },
   {
     "info": {
-      "id": "14076"
+      "id": "15845"
     },
     "details": {
-      "name": "V.Le Lunigiana",
+      "name": "P.Za Greco",
       "type": "surface"
     },
     "location": {
-      "X": "9.207926070842124",
-      "Y": "45.4913265395134"
+      "X": "9.210136979389892",
+      "Y": "45.5018349691589"
     }
   },
   {
     "info": {
-      "id": "14184"
+      "id": "16587"
     },
     "details": {
-      "name": "Via Venegoni Via Olivieri",
+      "name": "Cormano (Via Zara)",
       "type": "surface"
     },
     "location": {
-      "X": "9.113003138054339",
-      "Y": "45.465426876623866"
+      "X": "9.153889297681935",
+      "Y": "45.5498036790386"
     }
   },
   {
     "info": {
-      "id": "16717"
+      "id": "18494"
     },
     "details": {
-      "name": "Via Satta Via Pascarella",
+      "name": "Dateo",
       "type": "surface"
     },
     "location": {
-      "X": "9.141908727363958",
-      "Y": "45.51756172049575"
-    }
-  },
-  {
-    "info": {
-      "id": "17434"
-    },
-    "details": {
-      "name": "Lavanderie (Segrate)",
-      "type": "surface"
-    },
-    "location": {
-      "X": "9.267866641165956",
-      "Y": "45.48755781561903"
+      "X": "9.217825413846638",
+      "Y": "45.468170738805014"
     }
   },
   {
@@ -3186,6 +3173,19 @@
   },
   {
     "info": {
+      "id": "10305"
+    },
+    "details": {
+      "name": "P.Le Cimitero Maggiore",
+      "type": "surface"
+    },
+    "location": {
+      "X": "9.121392903812598",
+      "Y": "45.502928086261775"
+    }
+  },
+  {
+    "info": {
       "id": "10306"
     },
     "details": {
@@ -3195,6 +3195,19 @@
     "location": {
       "X": "9.121604989097559",
       "Y": "45.503089050514326"
+    }
+  },
+  {
+    "info": {
+      "id": "10308"
+    },
+    "details": {
+      "name": "P.Le Cimitero Maggiore",
+      "type": "surface"
+    },
+    "location": {
+      "X": "9.120652313236471",
+      "Y": "45.50328224643474"
     }
   },
   {
@@ -3260,6 +3273,19 @@
     "location": {
       "X": "9.121929400014587",
       "Y": "45.49863690066786"
+    }
+  },
+  {
+    "info": {
+      "id": "10314"
+    },
+    "details": {
+      "name": "V.Le Certosa (Cimitero  Maggiore)",
+      "type": "surface"
+    },
+    "location": {
+      "X": "9.12213519633695",
+      "Y": "45.5033675161857"
     }
   },
   {
@@ -4642,6 +4668,45 @@
   },
   {
     "info": {
+      "id": "10448"
+    },
+    "details": {
+      "name": "V.Le Certosa Via Giorgini",
+      "type": "surface"
+    },
+    "location": {
+      "X": "9.12464314886684",
+      "Y": "45.5022351938719"
+    }
+  },
+  {
+    "info": {
+      "id": "10449"
+    },
+    "details": {
+      "name": "V.Le Certosa Via Giorgini",
+      "type": "surface"
+    },
+    "location": {
+      "X": "9.12406747689934",
+      "Y": "45.50238433475264"
+    }
+  },
+  {
+    "info": {
+      "id": "10450"
+    },
+    "details": {
+      "name": "V.Le Certosa Via Cormons",
+      "type": "surface"
+    },
+    "location": {
+      "X": "9.126303583859015",
+      "Y": "45.50135578100206"
+    }
+  },
+  {
+    "info": {
       "id": "10451"
     },
     "details": {
@@ -4668,6 +4733,19 @@
   },
   {
     "info": {
+      "id": "10453"
+    },
+    "details": {
+      "name": "V.Le Certosa Via Cormons",
+      "type": "surface"
+    },
+    "location": {
+      "X": "9.126738573580813",
+      "Y": "45.50126529085"
+    }
+  },
+  {
+    "info": {
       "id": "10454"
     },
     "details": {
@@ -4690,6 +4768,19 @@
     "location": {
       "X": "9.126772367682912",
       "Y": "45.50278191564595"
+    }
+  },
+  {
+    "info": {
+      "id": "10456"
+    },
+    "details": {
+      "name": "V.Le Certosa Via Gradisca",
+      "type": "surface"
+    },
+    "location": {
+      "X": "9.130051662632674",
+      "Y": "45.49967740681406"
     }
   },
   {
@@ -4733,6 +4824,19 @@
   },
   {
     "info": {
+      "id": "10462"
+    },
+    "details": {
+      "name": "V.Le Certosa Via Gradisca",
+      "type": "surface"
+    },
+    "location": {
+      "X": "9.129225561781578",
+      "Y": "45.50014189166592"
+    }
+  },
+  {
+    "info": {
       "id": "10463"
     },
     "details": {
@@ -4746,6 +4850,19 @@
   },
   {
     "info": {
+      "id": "10464"
+    },
+    "details": {
+      "name": "V.Le Certosa Via Tibullo",
+      "type": "surface"
+    },
+    "location": {
+      "X": "9.13378665576698",
+      "Y": "45.497971921524055"
+    }
+  },
+  {
+    "info": {
       "id": "10465"
     },
     "details": {
@@ -4755,6 +4872,19 @@
     "location": {
       "X": "9.133590977123006",
       "Y": "45.49640598113412"
+    }
+  },
+  {
+    "info": {
+      "id": "10466"
+    },
+    "details": {
+      "name": "V.Le Certosa Via Tibullo",
+      "type": "surface"
+    },
+    "location": {
+      "X": "9.133603095242153",
+      "Y": "45.49815215520182"
     }
   },
   {
@@ -6241,6 +6371,19 @@
   },
   {
     "info": {
+      "id": "10613"
+    },
+    "details": {
+      "name": "Segesta M5",
+      "type": "surface"
+    },
+    "location": {
+      "X": "9.137824001744073",
+      "Y": "45.475385655529685"
+    }
+  },
+  {
+    "info": {
       "id": "10614"
     },
     "details": {
@@ -6865,6 +7008,19 @@
   },
   {
     "info": {
+      "id": "10675"
+    },
+    "details": {
+      "name": "V.Le Certosa Via Casella",
+      "type": "surface"
+    },
+    "location": {
+      "X": "9.14168267685893",
+      "Y": "45.49438903812054"
+    }
+  },
+  {
+    "info": {
       "id": "10676"
     },
     "details": {
@@ -6891,6 +7047,19 @@
   },
   {
     "info": {
+      "id": "10678"
+    },
+    "details": {
+      "name": "V.Le Certosa Via Casella",
+      "type": "surface"
+    },
+    "location": {
+      "X": "9.141470402197053",
+      "Y": "45.49458732203127"
+    }
+  },
+  {
+    "info": {
       "id": "10679"
     },
     "details": {
@@ -6900,6 +7069,19 @@
     "location": {
       "X": "9.142879287453642",
       "Y": "45.48957664515089"
+    }
+  },
+  {
+    "info": {
+      "id": "10680"
+    },
+    "details": {
+      "name": "P.Le Accursio",
+      "type": "surface"
+    },
+    "location": {
+      "X": "9.144429751904152",
+      "Y": "45.493127125451295"
     }
   },
   {
@@ -7095,6 +7277,32 @@
     "location": {
       "X": "9.150383420823342",
       "Y": "45.49302329364882"
+    }
+  },
+  {
+    "info": {
+      "id": "10697"
+    },
+    "details": {
+      "name": "V.Le Certosa Via Giannini",
+      "type": "surface"
+    },
+    "location": {
+      "X": "9.138009149774264",
+      "Y": "45.496175717361865"
+    }
+  },
+  {
+    "info": {
+      "id": "10698"
+    },
+    "details": {
+      "name": "V.Le Certosa Via Giannini",
+      "type": "surface"
+    },
+    "location": {
+      "X": "9.137516689327395",
+      "Y": "45.49629332246284"
     }
   },
   {
@@ -8629,6 +8837,19 @@
     "location": {
       "X": "9.157767856145115",
       "Y": "45.44839766841826"
+    }
+  },
+  {
+    "info": {
+      "id": "10842"
+    },
+    "details": {
+      "name": "Foppa",
+      "type": "surface"
+    },
+    "location": {
+      "X": "9.157910376240494",
+      "Y": "45.4567926167489"
     }
   },
   {
@@ -11246,1384 +11467,6 @@
   },
   {
     "info": {
-      "id": "16632"
-    },
-    "details": {
-      "name": "S.S. Del Sempione (Hotels Fiera) (Pero)",
-      "type": "surface"
-    },
-    "location": {
-      "X": "9.07459952236167",
-      "Y": "45.516423684470126"
-    }
-  },
-  {
-    "info": {
-      "id": "16633"
-    },
-    "details": {
-      "name": "S.S. Del Sempione Via Battisti (Pero)",
-      "type": "surface"
-    },
-    "location": {
-      "X": "9.07241982468263",
-      "Y": "45.51771221494923"
-    }
-  },
-  {
-    "info": {
-      "id": "16634"
-    },
-    "details": {
-      "name": "S.S. Del Sempione Via Battisti (Pero)",
-      "type": "surface"
-    },
-    "location": {
-      "X": "9.071428111279605",
-      "Y": "45.51815388237347"
-    }
-  },
-  {
-    "info": {
-      "id": "16635"
-    },
-    "details": {
-      "name": "Via Pace Via Sauro (Rho)",
-      "type": "surface"
-    },
-    "location": {
-      "X": "9.067150864555263",
-      "Y": "45.530955782044"
-    }
-  },
-  {
-    "info": {
-      "id": "16636"
-    },
-    "details": {
-      "name": "Via Pace Via Sauro (Rho)",
-      "type": "surface"
-    },
-    "location": {
-      "X": "9.067195953834052",
-      "Y": "45.53118077857251"
-    }
-  },
-  {
-    "info": {
-      "id": "16637"
-    },
-    "details": {
-      "name": "Via Togliatti Via Grossi (Rho)",
-      "type": "surface"
-    },
-    "location": {
-      "X": "9.070487292866185",
-      "Y": "45.529941178619346"
-    }
-  },
-  {
-    "info": {
-      "id": "16638"
-    },
-    "details": {
-      "name": "Via Togliatti Via Grossi (Rho)",
-      "type": "surface"
-    },
-    "location": {
-      "X": "9.070223275576009",
-      "Y": "45.53003134963187"
-    }
-  },
-  {
-    "info": {
-      "id": "16639"
-    },
-    "details": {
-      "name": "Via Togliatti Via Balzarotti (Rho)",
-      "type": "surface"
-    },
-    "location": {
-      "X": "9.073624379499313",
-      "Y": "45.53206342532288"
-    }
-  },
-  {
-    "info": {
-      "id": "16640"
-    },
-    "details": {
-      "name": "Via Togliatti Via Balzarotti (Rho)",
-      "type": "surface"
-    },
-    "location": {
-      "X": "9.073510739589286",
-      "Y": "45.531900977653734"
-    }
-  },
-  {
-    "info": {
-      "id": "16641"
-    },
-    "details": {
-      "name": "Via Togliatti (Palazzo Comunale) (Rho)",
-      "type": "surface"
-    },
-    "location": {
-      "X": "9.069790925832473",
-      "Y": "45.53252036662528"
-    }
-  },
-  {
-    "info": {
-      "id": "16642"
-    },
-    "details": {
-      "name": "Via Togliatti (Palazzo Comunale) (Rho)",
-      "type": "surface"
-    },
-    "location": {
-      "X": "9.069935124778151",
-      "Y": "45.53261928891362"
-    }
-  },
-  {
-    "info": {
-      "id": "16643"
-    },
-    "details": {
-      "name": "Via Trieste Via Della Santa (Rho)",
-      "type": "surface"
-    },
-    "location": {
-      "X": "9.069167703277333",
-      "Y": "45.537367734044054"
-    }
-  },
-  {
-    "info": {
-      "id": "16644"
-    },
-    "details": {
-      "name": "Via Trieste Via Della Santa (Rho)",
-      "type": "surface"
-    },
-    "location": {
-      "X": "9.068950882574494",
-      "Y": "45.538119440124426"
-    }
-  },
-  {
-    "info": {
-      "id": "16645"
-    },
-    "details": {
-      "name": "P.Za Della Chiesa (Rho)",
-      "type": "surface"
-    },
-    "location": {
-      "X": "9.067273696326302",
-      "Y": "45.54138776289999"
-    }
-  },
-  {
-    "info": {
-      "id": "16646"
-    },
-    "details": {
-      "name": "P.Za Della Chiesa (Rho)",
-      "type": "surface"
-    },
-    "location": {
-      "X": "9.066365637823889",
-      "Y": "45.54119027158576"
-    }
-  },
-  {
-    "info": {
-      "id": "16647"
-    },
-    "details": {
-      "name": "Via Ariosto Via Parini (Rho)",
-      "type": "surface"
-    },
-    "location": {
-      "X": "9.063486772007773",
-      "Y": "45.543973176911614"
-    }
-  },
-  {
-    "info": {
-      "id": "16648"
-    },
-    "details": {
-      "name": "Via Ariosto Via Parini (Rho)",
-      "type": "surface"
-    },
-    "location": {
-      "X": "9.063306889455703",
-      "Y": "45.5440767865163"
-    }
-  },
-  {
-    "info": {
-      "id": "16649"
-    },
-    "details": {
-      "name": "Via Ariosto Via Menotti (Rho)",
-      "type": "surface"
-    },
-    "location": {
-      "X": "9.05743516827153",
-      "Y": "45.54798175938722"
-    }
-  },
-  {
-    "info": {
-      "id": "16650"
-    },
-    "details": {
-      "name": "Via Ariosto Via Menotti (Rho)",
-      "type": "surface"
-    },
-    "location": {
-      "X": "9.05721748777771",
-      "Y": "45.54807637732715"
-    }
-  },
-  {
-    "info": {
-      "id": "16651"
-    },
-    "details": {
-      "name": "Via Casati Via S.Ambrogio (Rho)",
-      "type": "surface"
-    },
-    "location": {
-      "X": "9.046611118223748",
-      "Y": "45.548828240069376"
-    }
-  },
-  {
-    "info": {
-      "id": "16652"
-    },
-    "details": {
-      "name": "Via Casati Via S.Ambrogio (Rho)",
-      "type": "surface"
-    },
-    "location": {
-      "X": "9.046444500293804",
-      "Y": "45.548729297671976"
-    }
-  },
-  {
-    "info": {
-      "id": "16653"
-    },
-    "details": {
-      "name": "Via Cantu' Via Casati (Rho)",
-      "type": "surface"
-    },
-    "location": {
-      "X": "9.044010167929091",
-      "Y": "45.54829821165683"
-    }
-  },
-  {
-    "info": {
-      "id": "16654"
-    },
-    "details": {
-      "name": "Via Cantu' Via Casati (Rho)",
-      "type": "surface"
-    },
-    "location": {
-      "X": "9.044152603391108",
-      "Y": "45.54819464688562"
-    }
-  },
-  {
-    "info": {
-      "id": "16655"
-    },
-    "details": {
-      "name": "Rho (Ospedale)",
-      "type": "surface"
-    },
-    "location": {
-      "X": "9.044111236457109",
-      "Y": "45.54647549263528"
-    }
-  },
-  {
-    "info": {
-      "id": "16656"
-    },
-    "details": {
-      "name": "Rho (Via Ratti)",
-      "type": "surface"
-    },
-    "location": {
-      "X": "9.04260768405428",
-      "Y": "45.54223213676438"
-    }
-  },
-  {
-    "info": {
-      "id": "16657"
-    },
-    "details": {
-      "name": "Rho (Capuana)",
-      "type": "surface"
-    },
-    "location": {
-      "X": "9.014526940765434",
-      "Y": "45.53539388912424"
-    }
-  },
-  {
-    "info": {
-      "id": "16658"
-    },
-    "details": {
-      "name": "Via Capuana Via Giusti (Rho)",
-      "type": "surface"
-    },
-    "location": {
-      "X": "9.016787513881814",
-      "Y": "45.53556910365194"
-    }
-  },
-  {
-    "info": {
-      "id": "16659"
-    },
-    "details": {
-      "name": "Via Capuana Via Mattei (Rho)",
-      "type": "surface"
-    },
-    "location": {
-      "X": "9.022414925914996",
-      "Y": "45.53583368138749"
-    }
-  },
-  {
-    "info": {
-      "id": "16660"
-    },
-    "details": {
-      "name": "C.So Europa Via D'Aquino (Rho)",
-      "type": "surface"
-    },
-    "location": {
-      "X": "9.026701561714946",
-      "Y": "45.534325119995685"
-    }
-  },
-  {
-    "info": {
-      "id": "16661"
-    },
-    "details": {
-      "name": "C.So Europa (Ospedale) (Rho)",
-      "type": "surface"
-    },
-    "location": {
-      "X": "9.033800911196575",
-      "Y": "45.53319814678208"
-    }
-  },
-  {
-    "info": {
-      "id": "16662"
-    },
-    "details": {
-      "name": "C.So Europa Via Lainate (Rho)",
-      "type": "surface"
-    },
-    "location": {
-      "X": "9.038940919225968",
-      "Y": "45.53261596642112"
-    }
-  },
-  {
-    "info": {
-      "id": "16663"
-    },
-    "details": {
-      "name": "C.So Europa Via Canova (Rho)",
-      "type": "surface"
-    },
-    "location": {
-      "X": "9.051108803137495",
-      "Y": "45.52523945290546"
-    }
-  },
-  {
-    "info": {
-      "id": "16664"
-    },
-    "details": {
-      "name": "Via Borromeo (Loc.Pantanedo) (Rho)",
-      "type": "surface"
-    },
-    "location": {
-      "X": "9.06166904458418",
-      "Y": "45.52632054764129"
-    }
-  },
-  {
-    "info": {
-      "id": "16665"
-    },
-    "details": {
-      "name": "Molino Dorino M1",
-      "type": "surface"
-    },
-    "location": {
-      "X": "9.092923563794008",
-      "Y": "45.504887269353276"
-    }
-  },
-  {
-    "info": {
-      "id": "16672"
-    },
-    "details": {
-      "name": "Via Borromeo (Loc.Pantanedo) (Rho)",
-      "type": "surface"
-    },
-    "location": {
-      "X": "9.061751107912015",
-      "Y": "45.526502691248446"
-    }
-  },
-  {
-    "info": {
-      "id": "16673"
-    },
-    "details": {
-      "name": "C.So Europa Via Canova (Rho)",
-      "type": "surface"
-    },
-    "location": {
-      "X": "9.050877619811757",
-      "Y": "45.52526972652892"
-    }
-  },
-  {
-    "info": {
-      "id": "16674"
-    },
-    "details": {
-      "name": "C.So Europa (Ospedale) (Rho)",
-      "type": "surface"
-    },
-    "location": {
-      "X": "9.032926935530371",
-      "Y": "45.53337391727693"
-    }
-  },
-  {
-    "info": {
-      "id": "16675"
-    },
-    "details": {
-      "name": "C.So Europa Via D'Aquino (Rho)",
-      "type": "surface"
-    },
-    "location": {
-      "X": "9.026618375410315",
-      "Y": "45.534455652376344"
-    }
-  },
-  {
-    "info": {
-      "id": "16676"
-    },
-    "details": {
-      "name": "Via Capuana Via Mattei (Rho)",
-      "type": "surface"
-    },
-    "location": {
-      "X": "9.021817838902159",
-      "Y": "45.53600931295337"
-    }
-  },
-  {
-    "info": {
-      "id": "16677"
-    },
-    "details": {
-      "name": "Via Capuana Via Giusti (Rho)",
-      "type": "surface"
-    },
-    "location": {
-      "X": "9.01727106971587",
-      "Y": "45.53580755707505"
-    }
-  },
-  {
-    "info": {
-      "id": "16732"
-    },
-    "details": {
-      "name": "Assago Forum M2",
-      "type": "surface"
-    },
-    "location": {
-      "X": "9.146014872029985",
-      "Y": "45.40050482357912"
-    }
-  },
-  {
-    "info": {
-      "id": "16747"
-    },
-    "details": {
-      "name": "Via Perseghetto (Ospedale)(Rozzano)",
-      "type": "surface"
-    },
-    "location": {
-      "X": "9.166163839937925",
-      "Y": "45.37591453509361"
-    }
-  },
-  {
-    "info": {
-      "id": "16748"
-    },
-    "details": {
-      "name": "Via Manzoni (Ospedale)(Rozzano)",
-      "type": "surface"
-    },
-    "location": {
-      "X": "9.167658136033323",
-      "Y": "45.37386585127109"
-    }
-  },
-  {
-    "info": {
-      "id": "16749"
-    },
-    "details": {
-      "name": "Via S.Francesco Via Romagna (Opera)",
-      "type": "surface"
-    },
-    "location": {
-      "X": "9.213431258053324",
-      "Y": "45.37090451815112"
-    }
-  },
-  {
-    "info": {
-      "id": "16751"
-    },
-    "details": {
-      "name": "Via Manzoni (Ospedale)(Rozzano)",
-      "type": "surface"
-    },
-    "location": {
-      "X": "9.168729563861753",
-      "Y": "45.37329140650935"
-    }
-  },
-  {
-    "info": {
-      "id": "16752"
-    },
-    "details": {
-      "name": "Via G.Rossa Via Cooperazione (Rozzano)",
-      "type": "surface"
-    },
-    "location": {
-      "X": "9.152913123127814",
-      "Y": "45.376388588879585"
-    }
-  },
-  {
-    "info": {
-      "id": "16753"
-    },
-    "details": {
-      "name": "Via Perseghetto (Ospedale)(Rozzano)",
-      "type": "surface"
-    },
-    "location": {
-      "X": "9.165204237367005",
-      "Y": "45.37607014113802"
-    }
-  },
-  {
-    "info": {
-      "id": "16756"
-    },
-    "details": {
-      "name": "Via G.Rossa Via Cooperazione (Rozzano)",
-      "type": "surface"
-    },
-    "location": {
-      "X": "9.152612457394476",
-      "Y": "45.37637031270473"
-    }
-  },
-  {
-    "info": {
-      "id": "16844"
-    },
-    "details": {
-      "name": "Via Trieste Via Erba (Baranzate)",
-      "type": "surface"
-    },
-    "location": {
-      "X": "9.113663518191833",
-      "Y": "45.52672467841388"
-    }
-  },
-  {
-    "info": {
-      "id": "16845"
-    },
-    "details": {
-      "name": "Via Repubblica (Cimitero) (Bollate)",
-      "type": "surface"
-    },
-    "location": {
-      "X": "9.109548098810894",
-      "Y": "45.54158919230274"
-    }
-  },
-  {
-    "info": {
-      "id": "16987"
-    },
-    "details": {
-      "name": "Via Del Parco (Assago)",
-      "type": "surface"
-    },
-    "location": {
-      "X": "9.136199590843864",
-      "Y": "45.413796648750726"
-    }
-  },
-  {
-    "info": {
-      "id": "16988"
-    },
-    "details": {
-      "name": "Assago (Via Del Sole)",
-      "type": "surface"
-    },
-    "location": {
-      "X": "9.129659844274236",
-      "Y": "45.40512141949351"
-    }
-  },
-  {
-    "info": {
-      "id": "17093"
-    },
-    "details": {
-      "name": "Via Galvani (Settimo M.Se)",
-      "type": "surface"
-    },
-    "location": {
-      "X": "9.072769363871345",
-      "Y": "45.47079441339029"
-    }
-  },
-  {
-    "info": {
-      "id": "17094"
-    },
-    "details": {
-      "name": "Via Galvani (Settimo M.Se)",
-      "type": "surface"
-    },
-    "location": {
-      "X": "9.073322741363432",
-      "Y": "45.47086156873308"
-    }
-  },
-  {
-    "info": {
-      "id": "17281"
-    },
-    "details": {
-      "name": "Locate T. (Stazione Fs)",
-      "type": "surface"
-    },
-    "location": {
-      "X": "9.220857570367928",
-      "Y": "45.360050499992596"
-    }
-  },
-  {
-    "info": {
-      "id": "17292"
-    },
-    "details": {
-      "name": "Via Donizetti (Pieve E.)",
-      "type": "surface"
-    },
-    "location": {
-      "X": "9.200292222028295",
-      "Y": "45.34236298982744"
-    }
-  },
-  {
-    "info": {
-      "id": "17293"
-    },
-    "details": {
-      "name": "Pieve E. (Stazione Fs)",
-      "type": "surface"
-    },
-    "location": {
-      "X": "9.203507210329793",
-      "Y": "45.33979513774348"
-    }
-  },
-  {
-    "info": {
-      "id": "17300"
-    },
-    "details": {
-      "name": "Via Fermi Via Airaghi (Settimo M.Se)",
-      "type": "surface"
-    },
-    "location": {
-      "X": "9.077351186477827",
-      "Y": "45.47224957982239"
-    }
-  },
-  {
-    "info": {
-      "id": "17301"
-    },
-    "details": {
-      "name": "Via Fermi Via Airaghi (Settimo M.Se)",
-      "type": "surface"
-    },
-    "location": {
-      "X": "9.077328994527265",
-      "Y": "45.47239361093257"
-    }
-  },
-  {
-    "info": {
-      "id": "17338"
-    },
-    "details": {
-      "name": "Pieve E. (Stazione Fs)",
-      "type": "surface"
-    },
-    "location": {
-      "X": "9.203302649840566",
-      "Y": "45.33959430616964"
-    }
-  },
-  {
-    "info": {
-      "id": "17425"
-    },
-    "details": {
-      "name": "P.Za Marx (Stazione Fn) (Bollate)",
-      "type": "surface"
-    },
-    "location": {
-      "X": "9.121757499813995",
-      "Y": "45.542957172942224"
-    }
-  },
-  {
-    "info": {
-      "id": "17431"
-    },
-    "details": {
-      "name": "Q.Re Binda",
-      "type": "surface"
-    },
-    "location": {
-      "X": "9.167835308919209",
-      "Y": "45.42565332738449"
-    }
-  },
-  {
-    "info": {
-      "id": "17432"
-    },
-    "details": {
-      "name": "Via J.Palach (Ex Cartiera)",
-      "type": "surface"
-    },
-    "location": {
-      "X": "9.16871874190433",
-      "Y": "45.427209215741065"
-    }
-  },
-  {
-    "info": {
-      "id": "17433"
-    },
-    "details": {
-      "name": "Via J.Palach (Asilo)",
-      "type": "surface"
-    },
-    "location": {
-      "X": "9.168137949145128",
-      "Y": "45.42856923351917"
-    }
-  },
-  {
-    "info": {
-      "id": "17444"
-    },
-    "details": {
-      "name": "Arese (V.Vismara)",
-      "type": "surface"
-    },
-    "location": {
-      "X": "9.08958212789848",
-      "Y": "45.54658403124466"
-    }
-  },
-  {
-    "info": {
-      "id": "17448"
-    },
-    "details": {
-      "name": "Via Aldo Moro Via Allende (Arese)",
-      "type": "surface"
-    },
-    "location": {
-      "X": "9.062283416833283",
-      "Y": "45.55625470805218"
-    }
-  },
-  {
-    "info": {
-      "id": "17449"
-    },
-    "details": {
-      "name": "V.Le Resegone Via Matteotti (Arese)",
-      "type": "surface"
-    },
-    "location": {
-      "X": "9.078639155644842",
-      "Y": "45.55234812387107"
-    }
-  },
-  {
-    "info": {
-      "id": "17451"
-    },
-    "details": {
-      "name": "Via Aldo Moro Via Allende (Arese)",
-      "type": "surface"
-    },
-    "location": {
-      "X": "9.0622095530015",
-      "Y": "45.55612507245352"
-    }
-  },
-  {
-    "info": {
-      "id": "17453"
-    },
-    "details": {
-      "name": "V.Le Resegone Via Matteotti (Arese)",
-      "type": "surface"
-    },
-    "location": {
-      "X": "9.07869817662709",
-      "Y": "45.55218156706512"
-    }
-  },
-  {
-    "info": {
-      "id": "17490"
-    },
-    "details": {
-      "name": "Via Mascagni (Pieve E.)",
-      "type": "surface"
-    },
-    "location": {
-      "X": "9.199009568590595",
-      "Y": "45.34239673234562"
-    }
-  },
-  {
-    "info": {
-      "id": "17491"
-    },
-    "details": {
-      "name": "Via Mascagni (Pieve E.)",
-      "type": "surface"
-    },
-    "location": {
-      "X": "9.198986806935805",
-      "Y": "45.34227525552687"
-    }
-  },
-  {
-    "info": {
-      "id": "17655"
-    },
-    "details": {
-      "name": "Via M.Te Grappa Via Marconi (Arese)",
-      "type": "surface"
-    },
-    "location": {
-      "X": "9.082656461640463",
-      "Y": "45.538114597978634"
-    }
-  },
-  {
-    "info": {
-      "id": "17656"
-    },
-    "details": {
-      "name": "Via M.Te Grappa Via Marconi (Arese)",
-      "type": "surface"
-    },
-    "location": {
-      "X": "9.08289190842167",
-      "Y": "45.53810265488001"
-    }
-  },
-  {
-    "info": {
-      "id": "17718"
-    },
-    "details": {
-      "name": "Via Rosa Bianca Via Palach",
-      "type": "surface"
-    },
-    "location": {
-      "X": "9.166837790568264",
-      "Y": "45.42945835440331"
-    }
-  },
-  {
-    "info": {
-      "id": "17719"
-    },
-    "details": {
-      "name": "Via Donna Prassede Via Ferrante",
-      "type": "surface"
-    },
-    "location": {
-      "X": "9.168904404018237",
-      "Y": "45.42979949745869"
-    }
-  },
-  {
-    "info": {
-      "id": "17723"
-    },
-    "details": {
-      "name": "Via Gallarate Via Cefalu'",
-      "type": "surface"
-    },
-    "location": {
-      "X": "9.114690862065725",
-      "Y": "45.502777547418496"
-    }
-  },
-  {
-    "info": {
-      "id": "17724"
-    },
-    "details": {
-      "name": "Via Gallarate Via Bolla",
-      "type": "surface"
-    },
-    "location": {
-      "X": "9.110890885882094",
-      "Y": "45.50368669496694"
-    }
-  },
-  {
-    "info": {
-      "id": "17748"
-    },
-    "details": {
-      "name": "Via Bazzana Via Dei Caduti (Assago)",
-      "type": "surface"
-    },
-    "location": {
-      "X": "9.143924168354728",
-      "Y": "45.410332701475106"
-    }
-  },
-  {
-    "info": {
-      "id": "17749"
-    },
-    "details": {
-      "name": "Assago Nord M2",
-      "type": "surface"
-    },
-    "location": {
-      "X": "9.147716678343752",
-      "Y": "45.40982762543284"
-    }
-  },
-  {
-    "info": {
-      "id": "17750"
-    },
-    "details": {
-      "name": "Via Giovanni Paolo Ii Via Bazzana (Assago)",
-      "type": "surface"
-    },
-    "location": {
-      "X": "9.147184367570018",
-      "Y": "45.40801845785594"
-    }
-  },
-  {
-    "info": {
-      "id": "17751"
-    },
-    "details": {
-      "name": "Via Giovanni Paolo Ii Civ.1 (Assago)",
-      "type": "surface"
-    },
-    "location": {
-      "X": "9.144261019178675",
-      "Y": "45.40717434604106"
-    }
-  },
-  {
-    "info": {
-      "id": "17772"
-    },
-    "details": {
-      "name": "Via Priv. Alfa Romeo (Porta Centrale) (Arese)",
-      "type": "surface"
-    },
-    "location": {
-      "X": "9.054407021603472",
-      "Y": "45.56183747531289"
-    }
-  },
-  {
-    "info": {
-      "id": "17856"
-    },
-    "details": {
-      "name": "Rozzano (Via Cabrini)",
-      "type": "surface"
-    },
-    "location": {
-      "X": "9.161417728347962",
-      "Y": "45.38338531976354"
-    }
-  },
-  {
-    "info": {
-      "id": "17857"
-    },
-    "details": {
-      "name": "V.Le Don Lonni Via Delle Mimose (Rozzano)",
-      "type": "surface"
-    },
-    "location": {
-      "X": "9.156034353202125",
-      "Y": "45.38102062119586"
-    }
-  },
-  {
-    "info": {
-      "id": "17858"
-    },
-    "details": {
-      "name": "Rozzano (Via Cabrini)",
-      "type": "surface"
-    },
-    "location": {
-      "X": "9.16195349489294",
-      "Y": "45.382716632536685"
-    }
-  },
-  {
-    "info": {
-      "id": "17898"
-    },
-    "details": {
-      "name": "V.Le Sempione Via Matteotti (Arese)",
-      "type": "surface"
-    },
-    "location": {
-      "X": "9.077164024671857",
-      "Y": "45.55222972878347"
-    }
-  },
-  {
-    "info": {
-      "id": "17899"
-    },
-    "details": {
-      "name": "V.Le Sempione Via Matteotti (Arese)",
-      "type": "surface"
-    },
-    "location": {
-      "X": "9.077213177799099",
-      "Y": "45.551916789010804"
-    }
-  },
-  {
-    "info": {
-      "id": "17901"
-    },
-    "details": {
-      "name": "Via Degli Olmi Via Leoncavallo (Pieve E.)",
-      "type": "surface"
-    },
-    "location": {
-      "X": "9.19861029572589",
-      "Y": "45.34688183886296"
-    }
-  },
-  {
-    "info": {
-      "id": "18049"
-    },
-    "details": {
-      "name": "Via M.Te Amiata Via M.Te Penice (Rozzano)",
-      "type": "surface"
-    },
-    "location": {
-      "X": "9.157702336779376",
-      "Y": "45.39328883937999"
-    }
-  },
-  {
-    "info": {
-      "id": "18135"
-    },
-    "details": {
-      "name": "V.Le Lombardia V.Le Liguria (Rozzano)",
-      "type": "surface"
-    },
-    "location": {
-      "X": "9.158446074538926",
-      "Y": "45.382702693092874"
-    }
-  },
-  {
-    "info": {
-      "id": "18470"
-    },
-    "details": {
-      "name": "Via Aspromonte Via Alberelle (Rozzano)",
-      "type": "surface"
-    },
-    "location": {
-      "X": "9.159086499698054",
-      "Y": "45.39534378191972"
-    }
-  },
-  {
-    "info": {
-      "id": "18534"
-    },
-    "details": {
-      "name": "Via Rosa Bianca Via Palach",
-      "type": "surface"
-    },
-    "location": {
-      "X": "9.166125444046012",
-      "Y": "45.4281839197163"
-    }
-  },
-  {
-    "info": {
-      "id": "18558"
-    },
-    "details": {
-      "name": "Via Manzoni (Ospedale)(Rozzano)",
-      "type": "surface"
-    },
-    "location": {
-      "X": "9.168420293903978",
-      "Y": "45.37264099666669"
-    }
-  },
-  {
-    "info": {
-      "id": "19381"
-    },
-    "details": {
-      "name": "Via Donna Prassede C.Na Caimera",
-      "type": "surface"
-    },
-    "location": {
-      "X": "9.17006817900446",
-      "Y": "45.43237834626876"
-    }
-  },
-  {
-    "info": {
-      "id": "19593"
-    },
-    "details": {
-      "name": "Via Berlinguer Via Marcora (Opera)",
-      "type": "surface"
-    },
-    "location": {
-      "X": "9.213191282001896",
-      "Y": "45.38168660228057"
-    }
-  },
-  {
-    "info": {
-      "id": "19600"
-    },
-    "details": {
-      "name": "Via Mazzini Via Ricciotti (Cornaredo)",
-      "type": "surface"
-    },
-    "location": {
-      "X": "9.03069428013859",
-      "Y": "45.500291680656915"
-    }
-  },
-  {
-    "info": {
-      "id": "19601"
-    },
-    "details": {
-      "name": "Via Mazzini Via Ricciotti (Cornaredo)",
-      "type": "surface"
-    },
-    "location": {
-      "X": "9.030785526158116",
-      "Y": "45.49995585735774"
-    }
-  },
-  {
-    "info": {
-      "id": "19603"
-    },
-    "details": {
-      "name": "Cornaredo (Artigianato)",
-      "type": "surface"
-    },
-    "location": {
-      "X": "9.031871897223247",
-      "Y": "45.5035637245201"
-    }
-  },
-  {
-    "info": {
-      "id": "19618"
-    },
-    "details": {
-      "name": "Via Sempione (Cornaredo)",
-      "type": "surface"
-    },
-    "location": {
-      "X": "9.028801700957425",
-      "Y": "45.50516362316966"
-    }
-  },
-  {
-    "info": {
-      "id": "19619"
-    },
-    "details": {
-      "name": "Via Sempione (Cornaredo)",
-      "type": "surface"
-    },
-    "location": {
-      "X": "9.028852019208696",
-      "Y": "45.50523762549097"
-    }
-  },
-  {
-    "info": {
-      "id": "19620"
-    },
-    "details": {
-      "name": "Via Ghisolfa (Cornaredo)",
-      "type": "surface"
-    },
-    "location": {
-      "X": "9.029430201530067",
-      "Y": "45.502359980954395"
-    }
-  },
-  {
-    "info": {
-      "id": "19939"
-    },
-    "details": {
-      "name": "Via Morandi 13",
-      "type": "surface"
-    },
-    "location": {
-      "X": "9.077570778321705",
-      "Y": "45.53011053368291"
-    }
-  },
-  {
-    "info": {
-      "id": "19940"
-    },
-    "details": {
-      "name": "Via Morandi",
-      "type": "surface"
-    },
-    "location": {
-      "X": "9.077634863376376",
-      "Y": "45.53014966233049"
-    }
-  },
-  {
-    "info": {
-      "id": "19941"
-    },
-    "details": {
-      "name": "Angelico",
-      "type": "surface"
-    },
-    "location": {
-      "X": "9.329848520776583",
-      "Y": "45.5075044094576"
-    }
-  },
-  {
-    "info": {
-      "id": "20014"
-    },
-    "details": {
-      "name": "Via S.Martino",
-      "type": "surface"
-    },
-    "location": {
-      "X": "9.074030296688347",
-      "Y": "45.46612578824235"
-    }
-  },
-  {
-    "info": {
-      "id": "20176"
-    },
-    "details": {
-      "name": "Via Grandi",
-      "type": "surface"
-    },
-    "location": {
-      "X": "9.317536849334234",
-      "Y": "45.49498222978361"
-    }
-  },
-  {
-    "info": {
       "id": "11088"
     },
     "details": {
@@ -13218,19 +12061,6 @@
     "location": {
       "X": "9.165849557547796",
       "Y": "45.4405349937113"
-    }
-  },
-  {
-    "info": {
-      "id": "11142"
-    },
-    "details": {
-      "name": "Via Russoli, 15/5",
-      "type": "surface"
-    },
-    "location": {
-      "X": "9.165706827315425",
-      "Y": "45.44036868082659"
     }
   },
   {
@@ -15289,19 +14119,6 @@
   },
   {
     "info": {
-      "id": "11361"
-    },
-    "details": {
-      "name": "P.Le Nigra",
-      "type": "surface"
-    },
-    "location": {
-      "X": "9.171938721764116",
-      "Y": "45.49582292414841"
-    }
-  },
-  {
-    "info": {
       "id": "11362"
     },
     "details": {
@@ -15597,19 +14414,6 @@
     "location": {
       "X": "9.173397325797625",
       "Y": "45.526536109023866"
-    }
-  },
-  {
-    "info": {
-      "id": "11391"
-    },
-    "details": {
-      "name": "Via Acerbi Via Capsoni",
-      "type": "surface"
-    },
-    "location": {
-      "X": "9.173500732269261",
-      "Y": "45.528686173674906"
     }
   },
   {
@@ -20593,6 +19397,19 @@
   },
   {
     "info": {
+      "id": "11965"
+    },
+    "details": {
+      "name": "Via Monte Rotondo",
+      "type": "surface"
+    },
+    "location": {
+      "X": "9.194423201418017",
+      "Y": "45.514635767801565"
+    }
+  },
+  {
+    "info": {
       "id": "11966"
     },
     "details": {
@@ -20602,6 +19419,19 @@
     "location": {
       "X": "9.19781859769552",
       "Y": "45.50687778173158"
+    }
+  },
+  {
+    "info": {
+      "id": "11967"
+    },
+    "details": {
+      "name": "Via Gregorovius Via M.Te Rotondo",
+      "type": "surface"
+    },
+    "location": {
+      "X": "9.197409119025346",
+      "Y": "45.51433912391754"
     }
   },
   {
@@ -20645,6 +19475,19 @@
   },
   {
     "info": {
+      "id": "11971"
+    },
+    "details": {
+      "name": "Via Gregorovius Via M.Te Rotondo",
+      "type": "surface"
+    },
+    "location": {
+      "X": "9.1974911728072",
+      "Y": "45.514207469539045"
+    }
+  },
+  {
+    "info": {
       "id": "11972"
     },
     "details": {
@@ -20680,6 +19523,19 @@
     "location": {
       "X": "9.199908399825675",
       "Y": "45.5066486308005"
+    }
+  },
+  {
+    "info": {
+      "id": "11975"
+    },
+    "details": {
+      "name": "V.Le Suzzani Via Pianell",
+      "type": "surface"
+    },
+    "location": {
+      "X": "9.199590540951448",
+      "Y": "45.50959534176798"
     }
   },
   {
@@ -20732,6 +19588,58 @@
     "location": {
       "X": "9.20164968507854",
       "Y": "45.50878030460146"
+    }
+  },
+  {
+    "info": {
+      "id": "11980"
+    },
+    "details": {
+      "name": "V.Le Suzzani Via S. Monica",
+      "type": "surface"
+    },
+    "location": {
+      "X": "9.20077262375824",
+      "Y": "45.511717497791466"
+    }
+  },
+  {
+    "info": {
+      "id": "11981"
+    },
+    "details": {
+      "name": "V.Le Suzzani Via S. Monica",
+      "type": "surface"
+    },
+    "location": {
+      "X": "9.20088465572582",
+      "Y": "45.51217184900225"
+    }
+  },
+  {
+    "info": {
+      "id": "11982"
+    },
+    "details": {
+      "name": "Via Gregorovius V.Le Suzzani",
+      "type": "surface"
+    },
+    "location": {
+      "X": "9.200879053962717",
+      "Y": "45.513380982928986"
+    }
+  },
+  {
+    "info": {
+      "id": "11983"
+    },
+    "details": {
+      "name": "Via Gregorovius V.Le Suzzani",
+      "type": "surface"
+    },
+    "location": {
+      "X": "9.200753242500687",
+      "Y": "45.5133048667174"
     }
   },
   {
@@ -22396,6 +21304,19 @@
     "location": {
       "X": "9.214642604200908",
       "Y": "45.46882064224716"
+    }
+  },
+  {
+    "info": {
+      "id": "12144"
+    },
+    "details": {
+      "name": "Via C. Morrone Via Modena",
+      "type": "surface"
+    },
+    "location": {
+      "X": "9.214646505341435",
+      "Y": "45.47111589346108"
     }
   },
   {
@@ -24424,19 +23345,6 @@
     "location": {
       "X": "9.230701221437437",
       "Y": "45.444396562001224"
-    }
-  },
-  {
-    "info": {
-      "id": "12363"
-    },
-    "details": {
-      "name": "P.Za Salgari",
-      "type": "surface"
-    },
-    "location": {
-      "X": "9.221371225391898",
-      "Y": "45.450360208580946"
     }
   },
   {
@@ -26530,19 +25438,6 @@
     "location": {
       "X": "9.223400632501408",
       "Y": "45.50632264968331"
-    }
-  },
-  {
-    "info": {
-      "id": "12558"
-    },
-    "details": {
-      "name": "Gorla M1",
-      "type": "surface"
-    },
-    "location": {
-      "X": "9.223106369081334",
-      "Y": "45.50690447866932"
     }
   },
   {
@@ -28757,6 +27652,19 @@
   },
   {
     "info": {
+      "id": "12758"
+    },
+    "details": {
+      "name": "Via Palmanova Via Cesana",
+      "type": "surface"
+    },
+    "location": {
+      "X": "9.236233629975256",
+      "Y": "45.49656866274228"
+    }
+  },
+  {
+    "info": {
       "id": "12759"
     },
     "details": {
@@ -29910,6 +28818,19 @@
     "location": {
       "X": "9.261810576727726",
       "Y": "45.471062673497336"
+    }
+  },
+  {
+    "info": {
+      "id": "12864"
+    },
+    "details": {
+      "name": "Via Rubattino, 6",
+      "type": "surface"
+    },
+    "location": {
+      "X": "9.251615413825144",
+      "Y": "45.47740076183517"
     }
   },
   {
@@ -31734,6 +30655,19 @@
   },
   {
     "info": {
+      "id": "13165"
+    },
+    "details": {
+      "name": "P.Le Lodi V.Le Umbria M3",
+      "type": "surface"
+    },
+    "location": {
+      "X": "9.210812806093806",
+      "Y": "45.44817489549952"
+    }
+  },
+  {
+    "info": {
       "id": "13166"
     },
     "details": {
@@ -32761,6 +31695,19 @@
   },
   {
     "info": {
+      "id": "13287"
+    },
+    "details": {
+      "name": "Via Roma Via Battisti (Cesano B.)",
+      "type": "surface"
+    },
+    "location": {
+      "X": "9.093946274161292",
+      "Y": "45.44352872615946"
+    }
+  },
+  {
+    "info": {
       "id": "13288"
     },
     "details": {
@@ -33342,6 +32289,32 @@
     "location": {
       "X": "9.146427610021734",
       "Y": "45.400268097950736"
+    }
+  },
+  {
+    "info": {
+      "id": "13412"
+    },
+    "details": {
+      "name": "Via Di Vittorio Via Roma (Assago)",
+      "type": "surface"
+    },
+    "location": {
+      "X": "9.132891050176625",
+      "Y": "45.403182808205734"
+    }
+  },
+  {
+    "info": {
+      "id": "13413"
+    },
+    "details": {
+      "name": "Via Di Vittorio Via G.Verdi (Assago)",
+      "type": "surface"
+    },
+    "location": {
+      "X": "9.130105149985273",
+      "Y": "45.4029969837533"
     }
   },
   {
@@ -34204,6 +33177,19 @@
   },
   {
     "info": {
+      "id": "13647"
+    },
+    "details": {
+      "name": "Cinisello (S.Eusebio)",
+      "type": "surface"
+    },
+    "location": {
+      "X": "9.212471947548162",
+      "Y": "45.570413751351225"
+    }
+  },
+  {
+    "info": {
       "id": "13656"
     },
     "details": {
@@ -34659,6 +33645,84 @@
   },
   {
     "info": {
+      "id": "13725"
+    },
+    "details": {
+      "name": "Via Piemonte V.Le Lomellina (Buccinasco)",
+      "type": "surface"
+    },
+    "location": {
+      "X": "9.122111909896335",
+      "Y": "45.41635059482224"
+    }
+  },
+  {
+    "info": {
+      "id": "13726"
+    },
+    "details": {
+      "name": "Via Piemonte Via Resistenza (Buccinasco)",
+      "type": "surface"
+    },
+    "location": {
+      "X": "9.1171189890801",
+      "Y": "45.41505782324693"
+    }
+  },
+  {
+    "info": {
+      "id": "13727"
+    },
+    "details": {
+      "name": "Via Donizetti Via Idiomi (Assago)",
+      "type": "surface"
+    },
+    "location": {
+      "X": "9.117659321253775",
+      "Y": "45.408253756961585"
+    }
+  },
+  {
+    "info": {
+      "id": "13728"
+    },
+    "details": {
+      "name": "Via Galilei Via Donizetti (Assago)",
+      "type": "surface"
+    },
+    "location": {
+      "X": "9.118384232867127",
+      "Y": "45.40581820907004"
+    }
+  },
+  {
+    "info": {
+      "id": "13729"
+    },
+    "details": {
+      "name": "Via Galilei, 14 (Assago)",
+      "type": "surface"
+    },
+    "location": {
+      "X": "9.123312343207127",
+      "Y": "45.406060540265095"
+    }
+  },
+  {
+    "info": {
+      "id": "13730"
+    },
+    "details": {
+      "name": "Via Galilei Via G.Verdi (Assago)",
+      "type": "surface"
+    },
+    "location": {
+      "X": "9.125168485970876",
+      "Y": "45.40610803292844"
+    }
+  },
+  {
+    "info": {
       "id": "13731"
     },
     "details": {
@@ -34954,6 +34018,84 @@
     "location": {
       "X": "9.106289324503047",
       "Y": "45.44491377332976"
+    }
+  },
+  {
+    "info": {
+      "id": "13762"
+    },
+    "details": {
+      "name": "Via Galilei Via G.Verdi (Assago)",
+      "type": "surface"
+    },
+    "location": {
+      "X": "9.125572953828058",
+      "Y": "45.40626911516958"
+    }
+  },
+  {
+    "info": {
+      "id": "13763"
+    },
+    "details": {
+      "name": "Via Galilei, 14 (Assago)",
+      "type": "surface"
+    },
+    "location": {
+      "X": "9.12186953931872",
+      "Y": "45.406155435078496"
+    }
+  },
+  {
+    "info": {
+      "id": "13764"
+    },
+    "details": {
+      "name": "Via Galilei Via Donizetti (Assago)",
+      "type": "surface"
+    },
+    "location": {
+      "X": "9.119160183355843",
+      "Y": "45.40600509573951"
+    }
+  },
+  {
+    "info": {
+      "id": "13765"
+    },
+    "details": {
+      "name": "Via Donizetti Via Idiomi (Assago)",
+      "type": "surface"
+    },
+    "location": {
+      "X": "9.117741633908178",
+      "Y": "45.40866322291399"
+    }
+  },
+  {
+    "info": {
+      "id": "13766"
+    },
+    "details": {
+      "name": "Via Piemonte Via Resistenza (Buccinasco)",
+      "type": "surface"
+    },
+    "location": {
+      "X": "9.118227828675527",
+      "Y": "45.41509401174287"
+    }
+  },
+  {
+    "info": {
+      "id": "13767"
+    },
+    "details": {
+      "name": "Via Piemonte V.Le Lomellina (Buccinasco)",
+      "type": "surface"
+    },
+    "location": {
+      "X": "9.122698039256903",
+      "Y": "45.416421815200316"
     }
   },
   {
@@ -36336,19 +35478,6 @@
   },
   {
     "info": {
-      "id": "13980"
-    },
-    "details": {
-      "name": "Via Crescenzago Via Lombardia (Sesto S.G.)",
-      "type": "surface"
-    },
-    "location": {
-      "X": "9.242741570085915",
-      "Y": "45.51926444505732"
-    }
-  },
-  {
-    "info": {
       "id": "13981"
     },
     "details": {
@@ -36869,6 +35998,19 @@
   },
   {
     "info": {
+      "id": "14057"
+    },
+    "details": {
+      "name": "Via Giovanni Xxiii Via Donizetti (Cormano)",
+      "type": "surface"
+    },
+    "location": {
+      "X": "9.165610646285087",
+      "Y": "45.54145433028091"
+    }
+  },
+  {
+    "info": {
       "id": "14058"
     },
     "details": {
@@ -36943,6 +36085,19 @@
     "location": {
       "X": "9.16012876438498",
       "Y": "45.506511526360505"
+    }
+  },
+  {
+    "info": {
+      "id": "14076"
+    },
+    "details": {
+      "name": "V.Le Lunigiana",
+      "type": "surface"
+    },
+    "location": {
+      "X": "9.207926070842124",
+      "Y": "45.4913265395134"
     }
   },
   {
@@ -37116,6 +36271,19 @@
   },
   {
     "info": {
+      "id": "14102"
+    },
+    "details": {
+      "name": "Parco Nord (Ist. Tecnico)(Cinisello B.)",
+      "type": "surface"
+    },
+    "location": {
+      "X": "9.21697938621085",
+      "Y": "45.536967016922254"
+    }
+  },
+  {
+    "info": {
       "id": "14107"
     },
     "details": {
@@ -37125,6 +36293,32 @@
     "location": {
       "X": "9.245745650396753",
       "Y": "45.53156128923855"
+    }
+  },
+  {
+    "info": {
+      "id": "14108"
+    },
+    "details": {
+      "name": "Via Po Via Filzi (Cormano)",
+      "type": "surface"
+    },
+    "location": {
+      "X": "9.161013554912207",
+      "Y": "45.54359410193638"
+    }
+  },
+  {
+    "info": {
+      "id": "14109"
+    },
+    "details": {
+      "name": "Via Bellini Via Vitt. Veneto (Cusano M.No)",
+      "type": "surface"
+    },
+    "location": {
+      "X": "9.186131265685566",
+      "Y": "45.54510416475018"
     }
   },
   {
@@ -37229,6 +36423,32 @@
     "location": {
       "X": "9.207847609233179",
       "Y": "45.533109078241175"
+    }
+  },
+  {
+    "info": {
+      "id": "14130"
+    },
+    "details": {
+      "name": "Via Bellini Via Vitt. Veneto (Cusano M.No)",
+      "type": "surface"
+    },
+    "location": {
+      "X": "9.186378326049462",
+      "Y": "45.545247776967784"
+    }
+  },
+  {
+    "info": {
+      "id": "14131"
+    },
+    "details": {
+      "name": "Via Tagliabue Via Ticino (Cusano M.No)",
+      "type": "surface"
+    },
+    "location": {
+      "X": "9.182773047616186",
+      "Y": "45.548421905705034"
     }
   },
   {
@@ -37480,6 +36700,19 @@
   },
   {
     "info": {
+      "id": "14184"
+    },
+    "details": {
+      "name": "Via Venegoni Via Olivieri",
+      "type": "surface"
+    },
+    "location": {
+      "X": "9.113003138054339",
+      "Y": "45.465426876623866"
+    }
+  },
+  {
+    "info": {
       "id": "14189"
     },
     "details": {
@@ -37610,6 +36843,45 @@
   },
   {
     "info": {
+      "id": "14225"
+    },
+    "details": {
+      "name": "Via Emilia Via Risorgimento (S.Giuliano)",
+      "type": "surface"
+    },
+    "location": {
+      "X": "9.277617490668423",
+      "Y": "45.40243626749715"
+    }
+  },
+  {
+    "info": {
+      "id": "14226"
+    },
+    "details": {
+      "name": "Via Risorgimento Via Repubblica (S.Giuliano)",
+      "type": "surface"
+    },
+    "location": {
+      "X": "9.283314867547354",
+      "Y": "45.40474558256349"
+    }
+  },
+  {
+    "info": {
+      "id": "14227"
+    },
+    "details": {
+      "name": "S.Giuliano (De Nicola)",
+      "type": "surface"
+    },
+    "location": {
+      "X": "9.28758258810196",
+      "Y": "45.40126949851028"
+    }
+  },
+  {
+    "info": {
       "id": "14234"
     },
     "details": {
@@ -37697,6 +36969,19 @@
     "location": {
       "X": "9.251289076469275",
       "Y": "45.42610320330423"
+    }
+  },
+  {
+    "info": {
+      "id": "14241"
+    },
+    "details": {
+      "name": "Via Risorgimento Via Repubblica (S.Giuliano)",
+      "type": "surface"
+    },
+    "location": {
+      "X": "9.283465864298408",
+      "Y": "45.40492973128333"
     }
   },
   {
@@ -38728,6 +38013,19 @@
   },
   {
     "info": {
+      "id": "14854"
+    },
+    "details": {
+      "name": "V.Le Pasubio Via Vitt.Veneto (Cesano B.)",
+      "type": "surface"
+    },
+    "location": {
+      "X": "9.088025434989934",
+      "Y": "45.447645906461176"
+    }
+  },
+  {
+    "info": {
       "id": "14856"
     },
     "details": {
@@ -39677,6 +38975,71 @@
   },
   {
     "info": {
+      "id": "14985"
+    },
+    "details": {
+      "name": "Via Di Vittorio Via Morelli (Segrate)",
+      "type": "surface"
+    },
+    "location": {
+      "X": "9.30093883576096",
+      "Y": "45.50435556480345"
+    }
+  },
+  {
+    "info": {
+      "id": "14986"
+    },
+    "details": {
+      "name": "Via Di Vittorio Via Buozzi (Segrate)",
+      "type": "surface"
+    },
+    "location": {
+      "X": "9.30105347146306",
+      "Y": "45.50605194387043"
+    }
+  },
+  {
+    "info": {
+      "id": "14988"
+    },
+    "details": {
+      "name": "C.Na Burrona M2",
+      "type": "surface"
+    },
+    "location": {
+      "X": "9.298234225721396",
+      "Y": "45.51730151607777"
+    }
+  },
+  {
+    "info": {
+      "id": "14989"
+    },
+    "details": {
+      "name": "Via Buozzi (Centro Comm.)(Vimodrone)",
+      "type": "surface"
+    },
+    "location": {
+      "X": "9.300494192358869",
+      "Y": "45.510108344880805"
+    }
+  },
+  {
+    "info": {
+      "id": "14990"
+    },
+    "details": {
+      "name": "Via Di Vittorio Via Buozzi (Segrate)",
+      "type": "surface"
+    },
+    "location": {
+      "X": "9.30080514745557",
+      "Y": "45.50599409110426"
+    }
+  },
+  {
+    "info": {
       "id": "14993"
     },
     "details": {
@@ -39712,19 +39075,6 @@
     "location": {
       "X": "9.28400705929224",
       "Y": "45.528885926642246"
-    }
-  },
-  {
-    "info": {
-      "id": "15004"
-    },
-    "details": {
-      "name": "Cairoli M1",
-      "type": "surface"
-    },
-    "location": {
-      "X": "9.18089081653479",
-      "Y": "45.46762333712236"
     }
   },
   {
@@ -39829,6 +39179,58 @@
     "location": {
       "X": "9.245767718521734",
       "Y": "45.53169726368057"
+    }
+  },
+  {
+    "info": {
+      "id": "15031"
+    },
+    "details": {
+      "name": "Via Di Vittorio S.S.Padana Sup. (Vimodrone)",
+      "type": "surface"
+    },
+    "location": {
+      "X": "9.299007581633068",
+      "Y": "45.51434268708969"
+    }
+  },
+  {
+    "info": {
+      "id": "15032"
+    },
+    "details": {
+      "name": "Via Di Vittorio S.S.Padana Sup. (Vimodrone)",
+      "type": "surface"
+    },
+    "location": {
+      "X": "9.298939106855402",
+      "Y": "45.51410434106706"
+    }
+  },
+  {
+    "info": {
+      "id": "15033"
+    },
+    "details": {
+      "name": "Via Di Vittorio Via Morelli (Segrate)",
+      "type": "surface"
+    },
+    "location": {
+      "X": "9.300825863280858",
+      "Y": "45.50327124620313"
+    }
+  },
+  {
+    "info": {
+      "id": "15034"
+    },
+    "details": {
+      "name": "Via Di Vittorio Via Kennedy (Segrate)",
+      "type": "surface"
+    },
+    "location": {
+      "X": "9.30082716704687",
+      "Y": "45.49900478510657"
     }
   },
   {
@@ -40535,6 +39937,19 @@
   },
   {
     "info": {
+      "id": "15195"
+    },
+    "details": {
+      "name": "Lavanderie (Segrate)",
+      "type": "surface"
+    },
+    "location": {
+      "X": "9.268400490906254",
+      "Y": "45.487244697867816"
+    }
+  },
+  {
+    "info": {
       "id": "15196"
     },
     "details": {
@@ -40726,6 +40141,19 @@
     "location": {
       "X": "9.252221500664653",
       "Y": "45.427818854440204"
+    }
+  },
+  {
+    "info": {
+      "id": "15232"
+    },
+    "details": {
+      "name": "Via M.Te Grappa V.Le Pasubio (Cesano B.)",
+      "type": "surface"
+    },
+    "location": {
+      "X": "9.084312872318495",
+      "Y": "45.45003463961221"
     }
   },
   {
@@ -42121,6 +41549,19 @@
   },
   {
     "info": {
+      "id": "15533"
+    },
+    "details": {
+      "name": "Maciachini M3",
+      "type": "surface"
+    },
+    "location": {
+      "X": "9.185686660070834",
+      "Y": "45.497516281898925"
+    }
+  },
+  {
+    "info": {
       "id": "15534"
     },
     "details": {
@@ -42147,6 +41588,19 @@
   },
   {
     "info": {
+      "id": "15551"
+    },
+    "details": {
+      "name": "Via C. Battisti Via N. Sauro (Cormano)",
+      "type": "surface"
+    },
+    "location": {
+      "X": "9.171565808668444",
+      "Y": "45.54482989662397"
+    }
+  },
+  {
+    "info": {
       "id": "15552"
     },
     "details": {
@@ -42156,6 +41610,19 @@
     "location": {
       "X": "9.170058671977786",
       "Y": "45.54550033621232"
+    }
+  },
+  {
+    "info": {
+      "id": "15553"
+    },
+    "details": {
+      "name": "Via C. Battisti Via N. Sauro (Cormano)",
+      "type": "surface"
+    },
+    "location": {
+      "X": "9.171618518687971",
+      "Y": "45.54509510098039"
     }
   },
   {
@@ -42221,6 +41688,19 @@
     "location": {
       "X": "9.071268276255378",
       "Y": "45.45204621697688"
+    }
+  },
+  {
+    "info": {
+      "id": "15570"
+    },
+    "details": {
+      "name": "Cernusco (Itsos)",
+      "type": "surface"
+    },
+    "location": {
+      "X": "9.312202825624329",
+      "Y": "45.525257963206826"
     }
   },
   {
@@ -42602,6 +42082,19 @@
   },
   {
     "info": {
+      "id": "15644"
+    },
+    "details": {
+      "name": "Corsico (V.Le Italia)",
+      "type": "surface"
+    },
+    "location": {
+      "X": "9.097901158878372",
+      "Y": "45.43622172185437"
+    }
+  },
+  {
+    "info": {
       "id": "15646"
     },
     "details": {
@@ -42728,19 +42221,6 @@
     "location": {
       "X": "9.144891337535965",
       "Y": "45.52973989568752"
-    }
-  },
-  {
-    "info": {
-      "id": "15678"
-    },
-    "details": {
-      "name": "Via Circonvallazione Idroscalo, 51 (Segrate)",
-      "type": "surface"
-    },
-    "location": {
-      "X": "9.285486592800119",
-      "Y": "45.46557841024741"
     }
   },
   {
@@ -43300,19 +42780,6 @@
     "location": {
       "X": "9.192729913103207",
       "Y": "45.511312782837244"
-    }
-  },
-  {
-    "info": {
-      "id": "15845"
-    },
-    "details": {
-      "name": "P.Za Greco",
-      "type": "surface"
-    },
-    "location": {
-      "X": "9.210136979389892",
-      "Y": "45.5018349691589"
     }
   },
   {
@@ -44015,6 +43482,19 @@
     "location": {
       "X": "9.16533832438363",
       "Y": "45.5496185348443"
+    }
+  },
+  {
+    "info": {
+      "id": "15933"
+    },
+    "details": {
+      "name": "Via Gorki V.Le F.Testi (Cinisello B.)",
+      "type": "surface"
+    },
+    "location": {
+      "X": "9.218479146402492",
+      "Y": "45.53977244538646"
     }
   },
   {
@@ -45904,6 +45384,19 @@
   },
   {
     "info": {
+      "id": "16197"
+    },
+    "details": {
+      "name": "Via Triulziana Via Dei Tigli (S.Donato)",
+      "type": "surface"
+    },
+    "location": {
+      "X": "9.263333912378334",
+      "Y": "45.427246579195256"
+    }
+  },
+  {
+    "info": {
       "id": "16198"
     },
     "details": {
@@ -46983,6 +46476,19 @@
   },
   {
     "info": {
+      "id": "16315"
+    },
+    "details": {
+      "name": "Bisceglie M1",
+      "type": "surface"
+    },
+    "location": {
+      "X": "9.113322668800569",
+      "Y": "45.454986465890066"
+    }
+  },
+  {
+    "info": {
       "id": "16316"
     },
     "details": {
@@ -47057,19 +46563,6 @@
     "location": {
       "X": "9.288228574218119",
       "Y": "45.49611773123189"
-    }
-  },
-  {
-    "info": {
-      "id": "16587"
-    },
-    "details": {
-      "name": "Cormano (Via Zara)",
-      "type": "surface"
-    },
-    "location": {
-      "X": "9.153889297681935",
-      "Y": "45.5498036790386"
     }
   },
   {
@@ -47282,6 +46775,19 @@
   },
   {
     "info": {
+      "id": "16717"
+    },
+    "details": {
+      "name": "Via Satta Via Pascarella",
+      "type": "surface"
+    },
+    "location": {
+      "X": "9.141908727363958",
+      "Y": "45.51756172049575"
+    }
+  },
+  {
+    "info": {
       "id": "16718"
     },
     "details": {
@@ -47395,6 +46901,19 @@
     "location": {
       "X": "9.108025638453112",
       "Y": "45.42260666884559"
+    }
+  },
+  {
+    "info": {
+      "id": "16731"
+    },
+    "details": {
+      "name": "Via G.Verdi Via Del Sole (Assago)",
+      "type": "surface"
+    },
+    "location": {
+      "X": "9.127962803493757",
+      "Y": "45.40498880660638"
     }
   },
   {
@@ -48010,6 +47529,19 @@
   },
   {
     "info": {
+      "id": "16833"
+    },
+    "details": {
+      "name": "Via S. Bovio (Centro Ibm)(Segrate)",
+      "type": "surface"
+    },
+    "location": {
+      "X": "9.302722190271174",
+      "Y": "45.469544037441295"
+    }
+  },
+  {
+    "info": {
       "id": "16834"
     },
     "details": {
@@ -48188,6 +47720,19 @@
     "location": {
       "X": "9.299855784236023",
       "Y": "45.49684710335225"
+    }
+  },
+  {
+    "info": {
+      "id": "16855"
+    },
+    "details": {
+      "name": "Via Morelli (Segrate)",
+      "type": "surface"
+    },
+    "location": {
+      "X": "9.298214352629376",
+      "Y": "45.50382714480156"
     }
   },
   {
@@ -48994,19 +48539,6 @@
     "location": {
       "X": "9.12074897346379",
       "Y": "45.475411925087464"
-    }
-  },
-  {
-    "info": {
-      "id": "17000"
-    },
-    "details": {
-      "name": "Via Togliatti Via Guardi (Cinisello B.)",
-      "type": "surface"
-    },
-    "location": {
-      "X": "9.198101682409032",
-      "Y": "45.56010204181034"
     }
   },
   {
@@ -50103,19 +49635,6 @@
   },
   {
     "info": {
-      "id": "17201"
-    },
-    "details": {
-      "name": "Strada Provinciale 1",
-      "type": "surface"
-    },
-    "location": {
-      "X": "9.295236610041856",
-      "Y": "45.473823121187685"
-    }
-  },
-  {
-    "info": {
       "id": "17233"
     },
     "details": {
@@ -50918,6 +50437,19 @@
     "location": {
       "X": "9.218280591623145",
       "Y": "45.532306569949384"
+    }
+  },
+  {
+    "info": {
+      "id": "17434"
+    },
+    "details": {
+      "name": "Lavanderie (Segrate)",
+      "type": "surface"
+    },
+    "location": {
+      "X": "9.267866641165956",
+      "Y": "45.48755781561903"
     }
   },
   {
@@ -52027,19 +51559,6 @@
   },
   {
     "info": {
-      "id": "17667"
-    },
-    "details": {
-      "name": "Via Alberti Via Bramante (Cinisello B.)",
-      "type": "surface"
-    },
-    "location": {
-      "X": "9.202043225698938",
-      "Y": "45.56358667706034"
-    }
-  },
-  {
-    "info": {
       "id": "17668"
     },
     "details": {
@@ -52820,6 +52339,19 @@
   },
   {
     "info": {
+      "id": "17852"
+    },
+    "details": {
+      "name": "Via Cassanese Via Monzese (Segrate)",
+      "type": "surface"
+    },
+    "location": {
+      "X": "9.288377407400677",
+      "Y": "45.49594922684616"
+    }
+  },
+  {
+    "info": {
       "id": "17853"
     },
     "details": {
@@ -53128,6 +52660,32 @@
     "location": {
       "X": "9.107984042236218",
       "Y": "45.50943656326974"
+    }
+  },
+  {
+    "info": {
+      "id": "17985"
+    },
+    "details": {
+      "name": "Via Vespucci Via Colombo (Segrate)",
+      "type": "surface"
+    },
+    "location": {
+      "X": "9.304180596722503",
+      "Y": "45.49970735989605"
+    }
+  },
+  {
+    "info": {
+      "id": "17986"
+    },
+    "details": {
+      "name": "Via Cassanese Via Di Vittorio (Segrate)",
+      "type": "surface"
+    },
+    "location": {
+      "X": "9.301012337705687",
+      "Y": "45.49826968372171"
     }
   },
   {
@@ -54055,19 +53613,6 @@
   },
   {
     "info": {
-      "id": "18494"
-    },
-    "details": {
-      "name": "Dateo",
-      "type": "surface"
-    },
-    "location": {
-      "X": "9.217825413846638",
-      "Y": "45.468170738805014"
-    }
-  },
-  {
-    "info": {
       "id": "18504"
     },
     "details": {
@@ -54129,175 +53674,6 @@
     "location": {
       "X": "9.174859913668787",
       "Y": "45.465890626588845"
-    }
-  },
-  {
-    "info": {
-      "id": "18540"
-    },
-    "details": {
-      "name": "Casella",
-      "type": "surface"
-    },
-    "location": {
-      "X": "9.141882493597857",
-      "Y": "45.494725634161846"
-    }
-  },
-  {
-    "info": {
-      "id": "18543"
-    },
-    "details": {
-      "name": "Via Oriani",
-      "type": "surface"
-    },
-    "location": {
-      "X": "9.1293366268074",
-      "Y": "45.50031170452095"
-    }
-  },
-  {
-    "info": {
-      "id": "18545"
-    },
-    "details": {
-      "name": "Via Pareto",
-      "type": "surface"
-    },
-    "location": {
-      "X": "9.124612463385962",
-      "Y": "45.50250101666813"
-    }
-  },
-  {
-    "info": {
-      "id": "18546"
-    },
-    "details": {
-      "name": "Via Giorgini",
-      "type": "surface"
-    },
-    "location": {
-      "X": "9.12416492035782",
-      "Y": "45.50227204117096"
-    }
-  },
-  {
-    "info": {
-      "id": "18547"
-    },
-    "details": {
-      "name": "Via Cormons",
-      "type": "surface"
-    },
-    "location": {
-      "X": "9.126398155629511",
-      "Y": "45.50124423574156"
-    }
-  },
-  {
-    "info": {
-      "id": "18548"
-    },
-    "details": {
-      "name": "Cavalcavia Ghisallo",
-      "type": "surface"
-    },
-    "location": {
-      "X": "9.129798032866042",
-      "Y": "45.49965077265576"
-    }
-  },
-  {
-    "info": {
-      "id": "18549"
-    },
-    "details": {
-      "name": "Via Tibullo",
-      "type": "surface"
-    },
-    "location": {
-      "X": "9.133492277181412",
-      "Y": "45.498031023382644"
-    }
-  },
-  {
-    "info": {
-      "id": "18550"
-    },
-    "details": {
-      "name": "Via Giannini",
-      "type": "surface"
-    },
-    "location": {
-      "X": "9.137506856564206",
-      "Y": "45.496218113149745"
-    }
-  },
-  {
-    "info": {
-      "id": "18551"
-    },
-    "details": {
-      "name": "Via Casella",
-      "type": "surface"
-    },
-    "location": {
-      "X": "9.141530268376162",
-      "Y": "45.494385995258085"
-    }
-  },
-  {
-    "info": {
-      "id": "18552"
-    },
-    "details": {
-      "name": "Via Gallarate",
-      "type": "surface"
-    },
-    "location": {
-      "X": "9.144538802163058",
-      "Y": "45.49302655493907"
-    }
-  },
-  {
-    "info": {
-      "id": "18554"
-    },
-    "details": {
-      "name": "Certosa",
-      "type": "surface"
-    },
-    "location": {
-      "X": "9.13807141792033",
-      "Y": "45.49649192744004"
-    }
-  },
-  {
-    "info": {
-      "id": "18555"
-    },
-    "details": {
-      "name": "Luciano",
-      "type": "surface"
-    },
-    "location": {
-      "X": "9.133671136838485",
-      "Y": "45.498467478737375"
-    }
-  },
-  {
-    "info": {
-      "id": "18557"
-    },
-    "details": {
-      "name": "Cefalonia",
-      "type": "surface"
-    },
-    "location": {
-      "X": "9.126924152289659",
-      "Y": "45.50142304325622"
     }
   },
   {
@@ -54757,6 +54133,19 @@
   },
   {
     "info": {
+      "id": "19837"
+    },
+    "details": {
+      "name": "Via Morelli (Segrate)",
+      "type": "surface"
+    },
+    "location": {
+      "X": "9.298166095325028",
+      "Y": "45.503827135618344"
+    }
+  },
+  {
+    "info": {
       "id": "19842"
     },
     "details": {
@@ -54900,6 +54289,19 @@
   },
   {
     "info": {
+      "id": "19904"
+    },
+    "details": {
+      "name": "Istituto Machiavelli",
+      "type": "surface"
+    },
+    "location": {
+      "X": "9.312301803991701",
+      "Y": "45.477184273963445"
+    }
+  },
+  {
+    "info": {
       "id": "19908"
     },
     "details": {
@@ -54922,6 +54324,19 @@
     "location": {
       "X": "9.165778860733653",
       "Y": "45.5255233527163"
+    }
+  },
+  {
+    "info": {
+      "id": "19930"
+    },
+    "details": {
+      "name": "Cim.Bruzzano",
+      "type": "surface"
+    },
+    "location": {
+      "X": "9.18199634839748",
+      "Y": "45.528716624705346"
     }
   },
   {
@@ -55962,32 +55377,6 @@
     "location": {
       "X": "9.150348886344972",
       "Y": "45.45462283657666"
-    }
-  },
-  {
-    "info": {
-      "id": "20222"
-    },
-    "details": {
-      "name": "Certosa ",
-      "type": "surface"
-    },
-    "location": {
-      "X": "9.143835041032647",
-      "Y": "45.4937903639489"
-    }
-  },
-  {
-    "info": {
-      "id": "20223"
-    },
-    "details": {
-      "name": "Cim.Maggiore",
-      "type": "surface"
-    },
-    "location": {
-      "X": "9.119878006290199",
-      "Y": "45.50245515996059"
     }
   },
   {
@@ -60984,6 +60373,19 @@
   },
   {
     "info": {
+      "id": "16579"
+    },
+    "details": {
+      "name": "Via Varalli (Ist.Tecnico) (Bollate)",
+      "type": "surface"
+    },
+    "location": {
+      "X": "9.12229221199514",
+      "Y": "45.538782507437986"
+    }
+  },
+  {
+    "info": {
       "id": "16580"
     },
     "details": {
@@ -61149,6 +60551,1384 @@
     "location": {
       "X": "9.075656436186101",
       "Y": "45.516153468320944"
+    }
+  },
+  {
+    "info": {
+      "id": "16632"
+    },
+    "details": {
+      "name": "S.S. Del Sempione (Hotels Fiera) (Pero)",
+      "type": "surface"
+    },
+    "location": {
+      "X": "9.07459952236167",
+      "Y": "45.516423684470126"
+    }
+  },
+  {
+    "info": {
+      "id": "16633"
+    },
+    "details": {
+      "name": "S.S. Del Sempione Via Battisti (Pero)",
+      "type": "surface"
+    },
+    "location": {
+      "X": "9.07241982468263",
+      "Y": "45.51771221494923"
+    }
+  },
+  {
+    "info": {
+      "id": "16634"
+    },
+    "details": {
+      "name": "S.S. Del Sempione Via Battisti (Pero)",
+      "type": "surface"
+    },
+    "location": {
+      "X": "9.071428111279605",
+      "Y": "45.51815388237347"
+    }
+  },
+  {
+    "info": {
+      "id": "16635"
+    },
+    "details": {
+      "name": "Via Pace Via Sauro (Rho)",
+      "type": "surface"
+    },
+    "location": {
+      "X": "9.067150864555263",
+      "Y": "45.530955782044"
+    }
+  },
+  {
+    "info": {
+      "id": "16636"
+    },
+    "details": {
+      "name": "Via Pace Via Sauro (Rho)",
+      "type": "surface"
+    },
+    "location": {
+      "X": "9.067195953834052",
+      "Y": "45.53118077857251"
+    }
+  },
+  {
+    "info": {
+      "id": "16637"
+    },
+    "details": {
+      "name": "Via Togliatti Via Grossi (Rho)",
+      "type": "surface"
+    },
+    "location": {
+      "X": "9.070487292866185",
+      "Y": "45.529941178619346"
+    }
+  },
+  {
+    "info": {
+      "id": "16638"
+    },
+    "details": {
+      "name": "Via Togliatti Via Grossi (Rho)",
+      "type": "surface"
+    },
+    "location": {
+      "X": "9.070223275576009",
+      "Y": "45.53003134963187"
+    }
+  },
+  {
+    "info": {
+      "id": "16639"
+    },
+    "details": {
+      "name": "Via Togliatti Via Balzarotti (Rho)",
+      "type": "surface"
+    },
+    "location": {
+      "X": "9.073624379499313",
+      "Y": "45.53206342532288"
+    }
+  },
+  {
+    "info": {
+      "id": "16640"
+    },
+    "details": {
+      "name": "Via Togliatti Via Balzarotti (Rho)",
+      "type": "surface"
+    },
+    "location": {
+      "X": "9.073510739589286",
+      "Y": "45.531900977653734"
+    }
+  },
+  {
+    "info": {
+      "id": "16641"
+    },
+    "details": {
+      "name": "Via Togliatti (Palazzo Comunale) (Rho)",
+      "type": "surface"
+    },
+    "location": {
+      "X": "9.069790925832473",
+      "Y": "45.53252036662528"
+    }
+  },
+  {
+    "info": {
+      "id": "16642"
+    },
+    "details": {
+      "name": "Via Togliatti (Palazzo Comunale) (Rho)",
+      "type": "surface"
+    },
+    "location": {
+      "X": "9.069935124778151",
+      "Y": "45.53261928891362"
+    }
+  },
+  {
+    "info": {
+      "id": "16643"
+    },
+    "details": {
+      "name": "Via Trieste Via Della Santa (Rho)",
+      "type": "surface"
+    },
+    "location": {
+      "X": "9.069167703277333",
+      "Y": "45.537367734044054"
+    }
+  },
+  {
+    "info": {
+      "id": "16644"
+    },
+    "details": {
+      "name": "Via Trieste Via Della Santa (Rho)",
+      "type": "surface"
+    },
+    "location": {
+      "X": "9.068950882574494",
+      "Y": "45.538119440124426"
+    }
+  },
+  {
+    "info": {
+      "id": "16645"
+    },
+    "details": {
+      "name": "P.Za Della Chiesa (Rho)",
+      "type": "surface"
+    },
+    "location": {
+      "X": "9.067273696326302",
+      "Y": "45.54138776289999"
+    }
+  },
+  {
+    "info": {
+      "id": "16646"
+    },
+    "details": {
+      "name": "P.Za Della Chiesa (Rho)",
+      "type": "surface"
+    },
+    "location": {
+      "X": "9.066365637823889",
+      "Y": "45.54119027158576"
+    }
+  },
+  {
+    "info": {
+      "id": "16647"
+    },
+    "details": {
+      "name": "Via Ariosto Via Parini (Rho)",
+      "type": "surface"
+    },
+    "location": {
+      "X": "9.063486772007773",
+      "Y": "45.543973176911614"
+    }
+  },
+  {
+    "info": {
+      "id": "16648"
+    },
+    "details": {
+      "name": "Via Ariosto Via Parini (Rho)",
+      "type": "surface"
+    },
+    "location": {
+      "X": "9.063306889455703",
+      "Y": "45.5440767865163"
+    }
+  },
+  {
+    "info": {
+      "id": "16649"
+    },
+    "details": {
+      "name": "Via Ariosto Via Menotti (Rho)",
+      "type": "surface"
+    },
+    "location": {
+      "X": "9.05743516827153",
+      "Y": "45.54798175938722"
+    }
+  },
+  {
+    "info": {
+      "id": "16650"
+    },
+    "details": {
+      "name": "Via Ariosto Via Menotti (Rho)",
+      "type": "surface"
+    },
+    "location": {
+      "X": "9.05721748777771",
+      "Y": "45.54807637732715"
+    }
+  },
+  {
+    "info": {
+      "id": "16651"
+    },
+    "details": {
+      "name": "Via Casati Via S.Ambrogio (Rho)",
+      "type": "surface"
+    },
+    "location": {
+      "X": "9.046611118223748",
+      "Y": "45.548828240069376"
+    }
+  },
+  {
+    "info": {
+      "id": "16652"
+    },
+    "details": {
+      "name": "Via Casati Via S.Ambrogio (Rho)",
+      "type": "surface"
+    },
+    "location": {
+      "X": "9.046444500293804",
+      "Y": "45.548729297671976"
+    }
+  },
+  {
+    "info": {
+      "id": "16653"
+    },
+    "details": {
+      "name": "Via Cantu' Via Casati (Rho)",
+      "type": "surface"
+    },
+    "location": {
+      "X": "9.044010167929091",
+      "Y": "45.54829821165683"
+    }
+  },
+  {
+    "info": {
+      "id": "16654"
+    },
+    "details": {
+      "name": "Via Cantu' Via Casati (Rho)",
+      "type": "surface"
+    },
+    "location": {
+      "X": "9.044152603391108",
+      "Y": "45.54819464688562"
+    }
+  },
+  {
+    "info": {
+      "id": "16655"
+    },
+    "details": {
+      "name": "Rho (Ospedale)",
+      "type": "surface"
+    },
+    "location": {
+      "X": "9.044111236457109",
+      "Y": "45.54647549263528"
+    }
+  },
+  {
+    "info": {
+      "id": "16656"
+    },
+    "details": {
+      "name": "Rho (Via Ratti)",
+      "type": "surface"
+    },
+    "location": {
+      "X": "9.04260768405428",
+      "Y": "45.54223213676438"
+    }
+  },
+  {
+    "info": {
+      "id": "16657"
+    },
+    "details": {
+      "name": "Rho (Capuana)",
+      "type": "surface"
+    },
+    "location": {
+      "X": "9.014526940765434",
+      "Y": "45.53539388912424"
+    }
+  },
+  {
+    "info": {
+      "id": "16658"
+    },
+    "details": {
+      "name": "Via Capuana Via Giusti (Rho)",
+      "type": "surface"
+    },
+    "location": {
+      "X": "9.016787513881814",
+      "Y": "45.53556910365194"
+    }
+  },
+  {
+    "info": {
+      "id": "16659"
+    },
+    "details": {
+      "name": "Via Capuana Via Mattei (Rho)",
+      "type": "surface"
+    },
+    "location": {
+      "X": "9.022414925914996",
+      "Y": "45.53583368138749"
+    }
+  },
+  {
+    "info": {
+      "id": "16660"
+    },
+    "details": {
+      "name": "C.So Europa Via D'Aquino (Rho)",
+      "type": "surface"
+    },
+    "location": {
+      "X": "9.026701561714946",
+      "Y": "45.534325119995685"
+    }
+  },
+  {
+    "info": {
+      "id": "16661"
+    },
+    "details": {
+      "name": "C.So Europa (Ospedale) (Rho)",
+      "type": "surface"
+    },
+    "location": {
+      "X": "9.033800911196575",
+      "Y": "45.53319814678208"
+    }
+  },
+  {
+    "info": {
+      "id": "16662"
+    },
+    "details": {
+      "name": "C.So Europa Via Lainate (Rho)",
+      "type": "surface"
+    },
+    "location": {
+      "X": "9.038940919225968",
+      "Y": "45.53261596642112"
+    }
+  },
+  {
+    "info": {
+      "id": "16663"
+    },
+    "details": {
+      "name": "C.So Europa Via Canova (Rho)",
+      "type": "surface"
+    },
+    "location": {
+      "X": "9.051108803137495",
+      "Y": "45.52523945290546"
+    }
+  },
+  {
+    "info": {
+      "id": "16664"
+    },
+    "details": {
+      "name": "Via Borromeo (Loc.Pantanedo) (Rho)",
+      "type": "surface"
+    },
+    "location": {
+      "X": "9.06166904458418",
+      "Y": "45.52632054764129"
+    }
+  },
+  {
+    "info": {
+      "id": "16665"
+    },
+    "details": {
+      "name": "Molino Dorino M1",
+      "type": "surface"
+    },
+    "location": {
+      "X": "9.092923563794008",
+      "Y": "45.504887269353276"
+    }
+  },
+  {
+    "info": {
+      "id": "16672"
+    },
+    "details": {
+      "name": "Via Borromeo (Loc.Pantanedo) (Rho)",
+      "type": "surface"
+    },
+    "location": {
+      "X": "9.061751107912015",
+      "Y": "45.526502691248446"
+    }
+  },
+  {
+    "info": {
+      "id": "16673"
+    },
+    "details": {
+      "name": "C.So Europa Via Canova (Rho)",
+      "type": "surface"
+    },
+    "location": {
+      "X": "9.050877619811757",
+      "Y": "45.52526972652892"
+    }
+  },
+  {
+    "info": {
+      "id": "16674"
+    },
+    "details": {
+      "name": "C.So Europa (Ospedale) (Rho)",
+      "type": "surface"
+    },
+    "location": {
+      "X": "9.032926935530371",
+      "Y": "45.53337391727693"
+    }
+  },
+  {
+    "info": {
+      "id": "16675"
+    },
+    "details": {
+      "name": "C.So Europa Via D'Aquino (Rho)",
+      "type": "surface"
+    },
+    "location": {
+      "X": "9.026618375410315",
+      "Y": "45.534455652376344"
+    }
+  },
+  {
+    "info": {
+      "id": "16676"
+    },
+    "details": {
+      "name": "Via Capuana Via Mattei (Rho)",
+      "type": "surface"
+    },
+    "location": {
+      "X": "9.021817838902159",
+      "Y": "45.53600931295337"
+    }
+  },
+  {
+    "info": {
+      "id": "16677"
+    },
+    "details": {
+      "name": "Via Capuana Via Giusti (Rho)",
+      "type": "surface"
+    },
+    "location": {
+      "X": "9.01727106971587",
+      "Y": "45.53580755707505"
+    }
+  },
+  {
+    "info": {
+      "id": "16732"
+    },
+    "details": {
+      "name": "Assago Forum M2",
+      "type": "surface"
+    },
+    "location": {
+      "X": "9.146014872029985",
+      "Y": "45.40050482357912"
+    }
+  },
+  {
+    "info": {
+      "id": "16747"
+    },
+    "details": {
+      "name": "Via Perseghetto (Ospedale)(Rozzano)",
+      "type": "surface"
+    },
+    "location": {
+      "X": "9.166163839937925",
+      "Y": "45.37591453509361"
+    }
+  },
+  {
+    "info": {
+      "id": "16748"
+    },
+    "details": {
+      "name": "Via Manzoni (Ospedale)(Rozzano)",
+      "type": "surface"
+    },
+    "location": {
+      "X": "9.167658136033323",
+      "Y": "45.37386585127109"
+    }
+  },
+  {
+    "info": {
+      "id": "16749"
+    },
+    "details": {
+      "name": "Via S.Francesco Via Romagna (Opera)",
+      "type": "surface"
+    },
+    "location": {
+      "X": "9.213431258053324",
+      "Y": "45.37090451815112"
+    }
+  },
+  {
+    "info": {
+      "id": "16751"
+    },
+    "details": {
+      "name": "Via Manzoni (Ospedale)(Rozzano)",
+      "type": "surface"
+    },
+    "location": {
+      "X": "9.168729563861753",
+      "Y": "45.37329140650935"
+    }
+  },
+  {
+    "info": {
+      "id": "16752"
+    },
+    "details": {
+      "name": "Via G.Rossa Via Cooperazione (Rozzano)",
+      "type": "surface"
+    },
+    "location": {
+      "X": "9.152913123127814",
+      "Y": "45.376388588879585"
+    }
+  },
+  {
+    "info": {
+      "id": "16753"
+    },
+    "details": {
+      "name": "Via Perseghetto (Ospedale)(Rozzano)",
+      "type": "surface"
+    },
+    "location": {
+      "X": "9.165204237367005",
+      "Y": "45.37607014113802"
+    }
+  },
+  {
+    "info": {
+      "id": "16756"
+    },
+    "details": {
+      "name": "Via G.Rossa Via Cooperazione (Rozzano)",
+      "type": "surface"
+    },
+    "location": {
+      "X": "9.152612457394476",
+      "Y": "45.37637031270473"
+    }
+  },
+  {
+    "info": {
+      "id": "16844"
+    },
+    "details": {
+      "name": "Via Trieste Via Erba (Baranzate)",
+      "type": "surface"
+    },
+    "location": {
+      "X": "9.113663518191833",
+      "Y": "45.52672467841388"
+    }
+  },
+  {
+    "info": {
+      "id": "16845"
+    },
+    "details": {
+      "name": "Via Repubblica (Cimitero) (Bollate)",
+      "type": "surface"
+    },
+    "location": {
+      "X": "9.109548098810894",
+      "Y": "45.54158919230274"
+    }
+  },
+  {
+    "info": {
+      "id": "16987"
+    },
+    "details": {
+      "name": "Via Del Parco (Assago)",
+      "type": "surface"
+    },
+    "location": {
+      "X": "9.136199590843864",
+      "Y": "45.413796648750726"
+    }
+  },
+  {
+    "info": {
+      "id": "16988"
+    },
+    "details": {
+      "name": "Assago (Via Del Sole)",
+      "type": "surface"
+    },
+    "location": {
+      "X": "9.129659844274236",
+      "Y": "45.40512141949351"
+    }
+  },
+  {
+    "info": {
+      "id": "17093"
+    },
+    "details": {
+      "name": "Via Galvani (Settimo M.Se)",
+      "type": "surface"
+    },
+    "location": {
+      "X": "9.072769363871345",
+      "Y": "45.47079441339029"
+    }
+  },
+  {
+    "info": {
+      "id": "17094"
+    },
+    "details": {
+      "name": "Via Galvani (Settimo M.Se)",
+      "type": "surface"
+    },
+    "location": {
+      "X": "9.073322741363432",
+      "Y": "45.47086156873308"
+    }
+  },
+  {
+    "info": {
+      "id": "17281"
+    },
+    "details": {
+      "name": "Locate T. (Stazione Fs)",
+      "type": "surface"
+    },
+    "location": {
+      "X": "9.220857570367928",
+      "Y": "45.360050499992596"
+    }
+  },
+  {
+    "info": {
+      "id": "17292"
+    },
+    "details": {
+      "name": "Via Donizetti (Pieve E.)",
+      "type": "surface"
+    },
+    "location": {
+      "X": "9.200292222028295",
+      "Y": "45.34236298982744"
+    }
+  },
+  {
+    "info": {
+      "id": "17293"
+    },
+    "details": {
+      "name": "Pieve E. (Stazione Fs)",
+      "type": "surface"
+    },
+    "location": {
+      "X": "9.203507210329793",
+      "Y": "45.33979513774348"
+    }
+  },
+  {
+    "info": {
+      "id": "17300"
+    },
+    "details": {
+      "name": "Via Fermi Via Airaghi (Settimo M.Se)",
+      "type": "surface"
+    },
+    "location": {
+      "X": "9.077351186477827",
+      "Y": "45.47224957982239"
+    }
+  },
+  {
+    "info": {
+      "id": "17301"
+    },
+    "details": {
+      "name": "Via Fermi Via Airaghi (Settimo M.Se)",
+      "type": "surface"
+    },
+    "location": {
+      "X": "9.077328994527265",
+      "Y": "45.47239361093257"
+    }
+  },
+  {
+    "info": {
+      "id": "17338"
+    },
+    "details": {
+      "name": "Pieve E. (Stazione Fs)",
+      "type": "surface"
+    },
+    "location": {
+      "X": "9.203302649840566",
+      "Y": "45.33959430616964"
+    }
+  },
+  {
+    "info": {
+      "id": "17425"
+    },
+    "details": {
+      "name": "P.Za Marx (Stazione Fn) (Bollate)",
+      "type": "surface"
+    },
+    "location": {
+      "X": "9.121757499813995",
+      "Y": "45.542957172942224"
+    }
+  },
+  {
+    "info": {
+      "id": "17431"
+    },
+    "details": {
+      "name": "Q.Re Binda",
+      "type": "surface"
+    },
+    "location": {
+      "X": "9.167835308919209",
+      "Y": "45.42565332738449"
+    }
+  },
+  {
+    "info": {
+      "id": "17432"
+    },
+    "details": {
+      "name": "Via J.Palach (Ex Cartiera)",
+      "type": "surface"
+    },
+    "location": {
+      "X": "9.16871874190433",
+      "Y": "45.427209215741065"
+    }
+  },
+  {
+    "info": {
+      "id": "17433"
+    },
+    "details": {
+      "name": "Via J.Palach (Asilo)",
+      "type": "surface"
+    },
+    "location": {
+      "X": "9.168137949145128",
+      "Y": "45.42856923351917"
+    }
+  },
+  {
+    "info": {
+      "id": "17444"
+    },
+    "details": {
+      "name": "Arese (V.Vismara)",
+      "type": "surface"
+    },
+    "location": {
+      "X": "9.08958212789848",
+      "Y": "45.54658403124466"
+    }
+  },
+  {
+    "info": {
+      "id": "17448"
+    },
+    "details": {
+      "name": "Via Aldo Moro Via Allende (Arese)",
+      "type": "surface"
+    },
+    "location": {
+      "X": "9.062283416833283",
+      "Y": "45.55625470805218"
+    }
+  },
+  {
+    "info": {
+      "id": "17449"
+    },
+    "details": {
+      "name": "V.Le Resegone Via Matteotti (Arese)",
+      "type": "surface"
+    },
+    "location": {
+      "X": "9.078639155644842",
+      "Y": "45.55234812387107"
+    }
+  },
+  {
+    "info": {
+      "id": "17451"
+    },
+    "details": {
+      "name": "Via Aldo Moro Via Allende (Arese)",
+      "type": "surface"
+    },
+    "location": {
+      "X": "9.0622095530015",
+      "Y": "45.55612507245352"
+    }
+  },
+  {
+    "info": {
+      "id": "17453"
+    },
+    "details": {
+      "name": "V.Le Resegone Via Matteotti (Arese)",
+      "type": "surface"
+    },
+    "location": {
+      "X": "9.07869817662709",
+      "Y": "45.55218156706512"
+    }
+  },
+  {
+    "info": {
+      "id": "17490"
+    },
+    "details": {
+      "name": "Via Mascagni (Pieve E.)",
+      "type": "surface"
+    },
+    "location": {
+      "X": "9.199009568590595",
+      "Y": "45.34239673234562"
+    }
+  },
+  {
+    "info": {
+      "id": "17491"
+    },
+    "details": {
+      "name": "Via Mascagni (Pieve E.)",
+      "type": "surface"
+    },
+    "location": {
+      "X": "9.198986806935805",
+      "Y": "45.34227525552687"
+    }
+  },
+  {
+    "info": {
+      "id": "17655"
+    },
+    "details": {
+      "name": "Via M.Te Grappa Via Marconi (Arese)",
+      "type": "surface"
+    },
+    "location": {
+      "X": "9.082656461640463",
+      "Y": "45.538114597978634"
+    }
+  },
+  {
+    "info": {
+      "id": "17656"
+    },
+    "details": {
+      "name": "Via M.Te Grappa Via Marconi (Arese)",
+      "type": "surface"
+    },
+    "location": {
+      "X": "9.08289190842167",
+      "Y": "45.53810265488001"
+    }
+  },
+  {
+    "info": {
+      "id": "17718"
+    },
+    "details": {
+      "name": "Via Rosa Bianca Via Palach",
+      "type": "surface"
+    },
+    "location": {
+      "X": "9.166837790568264",
+      "Y": "45.42945835440331"
+    }
+  },
+  {
+    "info": {
+      "id": "17719"
+    },
+    "details": {
+      "name": "Via Donna Prassede Via Ferrante",
+      "type": "surface"
+    },
+    "location": {
+      "X": "9.168904404018237",
+      "Y": "45.42979949745869"
+    }
+  },
+  {
+    "info": {
+      "id": "17723"
+    },
+    "details": {
+      "name": "Via Gallarate Via Cefalu'",
+      "type": "surface"
+    },
+    "location": {
+      "X": "9.114690862065725",
+      "Y": "45.502777547418496"
+    }
+  },
+  {
+    "info": {
+      "id": "17724"
+    },
+    "details": {
+      "name": "Via Gallarate Via Bolla",
+      "type": "surface"
+    },
+    "location": {
+      "X": "9.110890885882094",
+      "Y": "45.50368669496694"
+    }
+  },
+  {
+    "info": {
+      "id": "17748"
+    },
+    "details": {
+      "name": "Via Bazzana Via Dei Caduti (Assago)",
+      "type": "surface"
+    },
+    "location": {
+      "X": "9.143924168354728",
+      "Y": "45.410332701475106"
+    }
+  },
+  {
+    "info": {
+      "id": "17749"
+    },
+    "details": {
+      "name": "Assago Nord M2",
+      "type": "surface"
+    },
+    "location": {
+      "X": "9.147716678343752",
+      "Y": "45.40982762543284"
+    }
+  },
+  {
+    "info": {
+      "id": "17750"
+    },
+    "details": {
+      "name": "Via Giovanni Paolo Ii Via Bazzana (Assago)",
+      "type": "surface"
+    },
+    "location": {
+      "X": "9.147184367570018",
+      "Y": "45.40801845785594"
+    }
+  },
+  {
+    "info": {
+      "id": "17751"
+    },
+    "details": {
+      "name": "Via Giovanni Paolo Ii Civ.1 (Assago)",
+      "type": "surface"
+    },
+    "location": {
+      "X": "9.144261019178675",
+      "Y": "45.40717434604106"
+    }
+  },
+  {
+    "info": {
+      "id": "17772"
+    },
+    "details": {
+      "name": "Via Priv. Alfa Romeo (Porta Centrale) (Arese)",
+      "type": "surface"
+    },
+    "location": {
+      "X": "9.054407021603472",
+      "Y": "45.56183747531289"
+    }
+  },
+  {
+    "info": {
+      "id": "17856"
+    },
+    "details": {
+      "name": "Rozzano (Via Cabrini)",
+      "type": "surface"
+    },
+    "location": {
+      "X": "9.161417728347962",
+      "Y": "45.38338531976354"
+    }
+  },
+  {
+    "info": {
+      "id": "17857"
+    },
+    "details": {
+      "name": "V.Le Don Lonni Via Delle Mimose (Rozzano)",
+      "type": "surface"
+    },
+    "location": {
+      "X": "9.156034353202125",
+      "Y": "45.38102062119586"
+    }
+  },
+  {
+    "info": {
+      "id": "17858"
+    },
+    "details": {
+      "name": "Rozzano (Via Cabrini)",
+      "type": "surface"
+    },
+    "location": {
+      "X": "9.16195349489294",
+      "Y": "45.382716632536685"
+    }
+  },
+  {
+    "info": {
+      "id": "17898"
+    },
+    "details": {
+      "name": "V.Le Sempione Via Matteotti (Arese)",
+      "type": "surface"
+    },
+    "location": {
+      "X": "9.077164024671857",
+      "Y": "45.55222972878347"
+    }
+  },
+  {
+    "info": {
+      "id": "17899"
+    },
+    "details": {
+      "name": "V.Le Sempione Via Matteotti (Arese)",
+      "type": "surface"
+    },
+    "location": {
+      "X": "9.077213177799099",
+      "Y": "45.551916789010804"
+    }
+  },
+  {
+    "info": {
+      "id": "17901"
+    },
+    "details": {
+      "name": "Via Degli Olmi Via Leoncavallo (Pieve E.)",
+      "type": "surface"
+    },
+    "location": {
+      "X": "9.19861029572589",
+      "Y": "45.34688183886296"
+    }
+  },
+  {
+    "info": {
+      "id": "18049"
+    },
+    "details": {
+      "name": "Via M.Te Amiata Via M.Te Penice (Rozzano)",
+      "type": "surface"
+    },
+    "location": {
+      "X": "9.157702336779376",
+      "Y": "45.39328883937999"
+    }
+  },
+  {
+    "info": {
+      "id": "18135"
+    },
+    "details": {
+      "name": "V.Le Lombardia V.Le Liguria (Rozzano)",
+      "type": "surface"
+    },
+    "location": {
+      "X": "9.158446074538926",
+      "Y": "45.382702693092874"
+    }
+  },
+  {
+    "info": {
+      "id": "18470"
+    },
+    "details": {
+      "name": "Via Aspromonte Via Alberelle (Rozzano)",
+      "type": "surface"
+    },
+    "location": {
+      "X": "9.159086499698054",
+      "Y": "45.39534378191972"
+    }
+  },
+  {
+    "info": {
+      "id": "18534"
+    },
+    "details": {
+      "name": "Via Rosa Bianca Via Palach",
+      "type": "surface"
+    },
+    "location": {
+      "X": "9.166125444046012",
+      "Y": "45.4281839197163"
+    }
+  },
+  {
+    "info": {
+      "id": "18558"
+    },
+    "details": {
+      "name": "Via Manzoni (Ospedale)(Rozzano)",
+      "type": "surface"
+    },
+    "location": {
+      "X": "9.168420293903978",
+      "Y": "45.37264099666669"
+    }
+  },
+  {
+    "info": {
+      "id": "19381"
+    },
+    "details": {
+      "name": "Via Donna Prassede C.Na Caimera",
+      "type": "surface"
+    },
+    "location": {
+      "X": "9.17006817900446",
+      "Y": "45.43237834626876"
+    }
+  },
+  {
+    "info": {
+      "id": "19593"
+    },
+    "details": {
+      "name": "Via Berlinguer Via Marcora (Opera)",
+      "type": "surface"
+    },
+    "location": {
+      "X": "9.213191282001896",
+      "Y": "45.38168660228057"
+    }
+  },
+  {
+    "info": {
+      "id": "19600"
+    },
+    "details": {
+      "name": "Via Mazzini Via Ricciotti (Cornaredo)",
+      "type": "surface"
+    },
+    "location": {
+      "X": "9.03069428013859",
+      "Y": "45.500291680656915"
+    }
+  },
+  {
+    "info": {
+      "id": "19601"
+    },
+    "details": {
+      "name": "Via Mazzini Via Ricciotti (Cornaredo)",
+      "type": "surface"
+    },
+    "location": {
+      "X": "9.030785526158116",
+      "Y": "45.49995585735774"
+    }
+  },
+  {
+    "info": {
+      "id": "19603"
+    },
+    "details": {
+      "name": "Cornaredo (Artigianato)",
+      "type": "surface"
+    },
+    "location": {
+      "X": "9.031871897223247",
+      "Y": "45.5035637245201"
+    }
+  },
+  {
+    "info": {
+      "id": "19618"
+    },
+    "details": {
+      "name": "Via Sempione (Cornaredo)",
+      "type": "surface"
+    },
+    "location": {
+      "X": "9.028801700957425",
+      "Y": "45.50516362316966"
+    }
+  },
+  {
+    "info": {
+      "id": "19619"
+    },
+    "details": {
+      "name": "Via Sempione (Cornaredo)",
+      "type": "surface"
+    },
+    "location": {
+      "X": "9.028852019208696",
+      "Y": "45.50523762549097"
+    }
+  },
+  {
+    "info": {
+      "id": "19620"
+    },
+    "details": {
+      "name": "Via Ghisolfa (Cornaredo)",
+      "type": "surface"
+    },
+    "location": {
+      "X": "9.029430201530067",
+      "Y": "45.502359980954395"
+    }
+  },
+  {
+    "info": {
+      "id": "19939"
+    },
+    "details": {
+      "name": "Via Morandi 13",
+      "type": "surface"
+    },
+    "location": {
+      "X": "9.077570778321705",
+      "Y": "45.53011053368291"
+    }
+  },
+  {
+    "info": {
+      "id": "19940"
+    },
+    "details": {
+      "name": "Via Morandi",
+      "type": "surface"
+    },
+    "location": {
+      "X": "9.077634863376376",
+      "Y": "45.53014966233049"
+    }
+  },
+  {
+    "info": {
+      "id": "19941"
+    },
+    "details": {
+      "name": "Angelico",
+      "type": "surface"
+    },
+    "location": {
+      "X": "9.329848520776583",
+      "Y": "45.5075044094576"
+    }
+  },
+  {
+    "info": {
+      "id": "20014"
+    },
+    "details": {
+      "name": "Via S.Martino",
+      "type": "surface"
+    },
+    "location": {
+      "X": "9.074030296688347",
+      "Y": "45.46612578824235"
+    }
+  },
+  {
+    "info": {
+      "id": "20176"
+    },
+    "details": {
+      "name": "Via Grandi",
+      "type": "surface"
+    },
+    "location": {
+      "X": "9.317536849334234",
+      "Y": "45.49498222978361"
     }
   },
   {
@@ -61998,6 +62778,19 @@
   },
   {
     "info": {
+      "id": "-7"
+    },
+    "details": {
+      "name": "LANZA M2",
+      "type": "metro"
+    },
+    "location": {
+      "X": "9.182753345396172",
+      "Y": "45.472035686771214"
+    }
+  },
+  {
+    "info": {
       "id": "-56"
     },
     "details": {
@@ -62163,6 +62956,19 @@
     "location": {
       "X": "9.180517203411421",
       "Y": "45.48490191502313"
+    }
+  },
+  {
+    "info": {
+      "id": "-8"
+    },
+    "details": {
+      "name": "MOSCOVA M2",
+      "type": "metro"
+    },
+    "location": {
+      "X": "9.184512033627362",
+      "Y": "45.477793612203975"
     }
   },
   {

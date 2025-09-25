@@ -7,6 +7,7 @@ from api.get_lines.get_lines import get_lines
 from api.get_stop_details.get_stop_details import get_stop_details
 from api.get_stops.get_stops import get_stops
 from api.get_metro_status.get_metro_status import get_metro_status
+from api.get_surface_status.get_surface_status import get_surface_status
 from api.constants import create_error_json
 
 
@@ -96,6 +97,10 @@ async def app(scope, receive, send):
         elif path == '/status/metro':
             print(f"Routing per /status/metro")
             data, content_type, status_code = get_metro_status()
+
+        elif path == '/status/surface':
+            print(f"Routing per /status/surface")
+            data, content_type, status_code = get_surface_status()
         # Se nessun percorso GET specifico viene trovato, la risposta 404 predefinita rimane.
 
     else:  # Gestisce metodi HTTP non GET

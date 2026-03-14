@@ -5,6 +5,7 @@ from urllib.parse import unquote, parse_qs  # Per gestire percorsi e stringhe di
 from api.get_line_details.get_line_details import get_line_details
 from api.get_lines.get_lines import get_lines
 from api.get_stop_details.get_stop_details import get_stop_details
+from api.get_stop_accessibility.get_stop_accessibility import get_stop_accessibility
 from api.get_stops.get_stops import get_stops
 from api.get_metro_status.get_metro_status import get_metro_status
 from api.get_surface_status.get_surface_status import get_surface_status
@@ -65,8 +66,7 @@ async def app(scope, receive, send):
                     "DettagliFermata": {
                         "Path": "/stops/{stopId}",
                         "Descrizione": "Restituisce informazioni dettagliate per una specifica fermata, potenzialmente includendo dati in tempo reale. Non supporta parametri aggiuntivi."
-                        # "ParametriDiQuery" rimosso poiché 'short' è stato eliminato
-                    }
+                        }
                 }
             }
 
@@ -101,6 +101,13 @@ async def app(scope, receive, send):
         elif path == '/status/surface':
             print(f"Routing per /status/surface")
             data, content_type, status_code = get_surface_status()
+
+        elif match := re.fullmatch(r'/accessibility/([^/]+)', path):
+            stop_id = unquote(match.group(1))
+            print(f"Routing per /accessibility/{stop_id}")
+            # Passa i query_params direttamente. get_stop_accessibility gestirà i parametri che conosce.
+            data, content_type, status_code = get_stop_accessibility(stop_id)
+
         # Se nessun percorso GET specifico viene trovato, la risposta 404 predefinita rimane.
 
     else:  # Gestisce metodi HTTP non GET

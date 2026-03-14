@@ -1,7 +1,3 @@
-# WARNING
-# Is the code below absolue shit? YES
-# Does it work? YES
-# Will i do *ANYTHING* to rewrite it? NO
 
 
 from api.parsing.lines.parse_line import parse_line

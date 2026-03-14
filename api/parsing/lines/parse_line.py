@@ -2,11 +2,6 @@ import re
 
 from api.constants import create_local_waiting_time_json
 
-
-# import json # Rimosso perché non utilizzato
-# from operator import truediv # Rimosso perché non utilizzato
-
-
 def _parse_location_name(name_str):
     """
     Parses a single location name string which might include 'con dir.' and 'e' alternatives.
